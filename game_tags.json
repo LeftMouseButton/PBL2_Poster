@@ -1,0 +1,9641 @@
+{
+  "#COMPASS": {
+    "inputs": [
+      "#COMPASS"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "competitive", "hero_shooter"]
+  },
+  "1-2-switch": {
+    "inputs": [
+      "1-2-switch"
+    ],
+    "is_game": true,
+    "tags": ["party_game", "multiplayer"]
+  },
+  "1/8192": {
+    "inputs": [
+      "1/8192"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "100%_Orange_Juice": {
+    "inputs": [
+      "100%_Orange_Juice"
+    ],
+    "is_game": true,
+    "tags": ["party_game"]
+  },
+  "13_Sentinels:_Aegis_Rim": {
+    "inputs": [
+      "13_Sentinels:_Aegis_Rim"
+    ],
+    "is_game": true,
+    "tags": ["story", "mystery_deduction"]
+  },
+  "2XKO": {
+    "inputs": [
+      "2XKO"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "competitive"]
+  },
+  "428:_Shibuya_Scramble": {
+    "inputs": [
+      "428:_Shibuya_Scramble"
+    ],
+    "is_game": true,
+    "tags": ["story", "mystery_deduction"]
+  },
+  "60_Parsecs!": {
+    "inputs": [
+      "60_Parsecs!"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "60seconds": {
+    "inputs": [
+      "60seconds"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "7_Days_to_End_with_You": {
+    "inputs": [
+      "7_Days_to_End_with_You"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "7_days_to_die": {
+    "inputs": [
+      "7_days_to_die"
+    ],
+    "is_game": true,
+    "tags": ["crafting", "open_world", "cooperative"]
+  },
+  "ABZÛ": {
+    "inputs": [
+      "ABZÛ"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "AFK": {
+    "inputs": [
+      "AFK"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "AI_Somnium_Files": {
+    "inputs": [
+      "AI_Somnium_Files"
+    ],
+    "is_game": true,
+    "tags": ["story", "mystery_deduction"]
+  },
+  "AK-xolotl": {
+    "inputs": [
+      "AK-xolotl"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "AKIBA'S_TRIP": {
+    "inputs": [
+      "AKIBA'S_TRIP"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "ALICE_Fiction": {
+    "inputs": [
+      "ALICE_Fiction"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "ALTF4": {
+    "inputs": [
+      "ALTF4"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "ANIMAL_WELL": {
+    "inputs": [
+      "ANIMAL_WELL"
+    ],
+    "is_game": true,
+    "tags": ["platformer", "mystery_deduction"]
+  },
+  "APE_OUT": {
+    "inputs": [
+      "APE_OUT"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "ARC_Raiders": {
+    "inputs": [
+      "ARC_Raiders"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer"]
+  },
+  "A_Dance_of_Fire_and_Ice": {
+    "inputs": [
+      "A_Dance_of_Fire_and_Ice"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "A_Date_with_Death": {
+    "inputs": [
+      "A_Date_with_Death"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "A_Difficult_Game_About_Climbing": {
+    "inputs": [
+      "A_Difficult_Game_About_Climbing"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "A_Game_About_Digging_A_Hole": {
+    "inputs": [
+      "A_Game_About_Digging_A_Hole"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "A_Hat_in_Time": {
+    "inputs": [
+      "A_Hat_in_Time"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "A_Little_to_the_Left": {
+    "inputs": [
+      "A_Little_to_the_Left"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "A_Short_Hike": {
+    "inputs": [
+      "A_Short_Hike"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "A_Shut-in_Daughter": {
+    "inputs": [
+      "A_Shut-in_Daughter"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "A_Space_for_the_Unbound": {
+    "inputs": [
+      "A_Space_for_the_Unbound"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "A_Way_Out": {
+    "inputs": [
+      "A_Way_Out"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "A_game_that_saves_the_muscles_caught_in_the_ceiling_of_the_gymnasium": {
+    "inputs": [
+      "A_game_that_saves_the_muscles_caught_in_the_ceiling_of_the_gymnasium"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Abiotic_Factor": {
+    "inputs": [
+      "Abiotic_Factor"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Abyssdia": {
+    "inputs": [
+      "Abyssdia"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ace_Attorney": {
+    "inputs": [
+      "Ace_Attorney"
+    ],
+    "is_game": true,
+    "tags": ["story", "mystery_deduction"]
+  },
+  "Ace_Combat": {
+    "inputs": [
+      "Ace_Combat"
+    ],
+    "is_game": true,
+    "tags": ["fps", "competitive"]
+  },
+  "Against_the_Storm": {
+    "inputs": [
+      "Against_the_Storm"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Age_of_Empires": {
+    "inputs": [
+      "Age_of_Empires"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "competitive"]
+  },
+  "Air_Hockey": {
+    "inputs": [
+      "Air_Hockey"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Aka_Manto": {
+    "inputs": [
+      "Aka_Manto"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Akai_Onna": {
+    "inputs": [
+      "Akai_Onna"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Alchemy_Stars": {
+    "inputs": [
+      "Alchemy_Stars"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Alice:_Madness": {
+    "inputs": [
+      "Alice:_Madness"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Alien_Isolation": {
+    "inputs": [
+      "Alien_Isolation"
+    ],
+    "is_game": true,
+    "tags": ["horror"]
+  },
+  "Alisa": {
+    "inputs": [
+      "Alisa"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "All_You_Need_is_Help": {
+    "inputs": [
+      "All_You_Need_is_Help"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Alone_in_the_Dark": {
+    "inputs": [
+      "Alone_in_the_Dark"
+    ],
+    "is_game": true,
+    "tags": ["horror"]
+  },
+  "Amanda_the_Adventurer": {
+    "inputs": [
+      "Amanda_the_Adventurer"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Amnesia": {
+    "inputs": [
+      "Amnesia"
+    ],
+    "is_game": true,
+    "tags": ["horror"]
+  },
+  "Among_the_Sleep": {
+    "inputs": [
+      "Among_the_Sleep"
+    ],
+    "is_game": true,
+    "tags": ["horror"]
+  },
+  "Angels_of_Death": {
+    "inputs": [
+      "Angels_of_Death"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Animal_Crossing": {
+    "inputs": [
+      "Animal_Crossing"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Animal_Shelter": {
+    "inputs": [
+      "Animal_Shelter"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Animal_Tower_Battle": {
+    "inputs": [
+      "Animal_Tower_Battle"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Animation": {
+    "inputs": [
+      "Animation"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Anomalous_Railroad_Crossing": {
+    "inputs": [
+      "Anomalous_Railroad_Crossing"
+    ],
+    "is_game": true,
+    "tags": ["mystery_deduction"]
+  },
+  "Another_Crab's_Treasure": {
+    "inputs": [
+      "Another_Crab's_Treasure"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Another_Eden": {
+    "inputs": [
+      "Another_Eden"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ape_Escape": {
+    "inputs": [
+      "Ape_Escape"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Aquarium": {
+    "inputs": [
+      "Aquarium"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Aragami": {
+    "inputs": [
+      "Aragami"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "cooperative"]
+  },
+  "Arcade_Paradise": {
+    "inputs": [
+      "Arcade_Paradise"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Arcaea": {
+    "inputs": [
+      "Arcaea"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Arctic_Eggs": {
+    "inputs": [
+      "Arctic_Eggs"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Arena_of_Valor": {
+    "inputs": [
+      "Arena_of_Valor"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Arima_Kinen": {
+    "inputs": [
+      "Arima_Kinen"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Armored_Core": {
+    "inputs": [
+      "Armored_Core"
+    ],
+    "is_game": true,
+    "tags": ["fps"]
+  },
+  "Asphalt": {
+    "inputs": [
+      "Asphalt"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "competitive"]
+  },
+  "Assassins_Creed": {
+    "inputs": [
+      "Assassins_Creed"
+    ],
+    "is_game": true,
+    "tags": ["open_world"]
+  },
+  "Assault_Lily": {
+    "inputs": [
+      "Assault_Lily"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Assetto_Corsa": {
+    "inputs": [
+      "Assetto_Corsa"
+    ],
+    "is_game": true,
+    "tags": ["simulator", "sports"]
+  },
+  "Astro_Bot": {
+    "inputs": [
+      "Astro_Bot"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Astroneer": {
+    "inputs": [
+      "Astroneer"
+    ],
+    "is_game": true,
+    "tags": ["open_world", "crafting"]
+  },
+  "Atelier": {
+    "inputs": [
+      "Atelier"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Azur_Lane": {
+    "inputs": [
+      "Azur_Lane"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "BAD_END_THEATER": {
+    "inputs": [
+      "BAD_END_THEATER"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "BALL_x_PIT": {
+    "inputs": [
+      "BALL_x_PIT"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "BIGFOOT": {
+    "inputs": [
+      "BIGFOOT"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "BLEACH": {
+    "inputs": [
+      "BLEACH"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "BUTTON_PRISON": {
+    "inputs": [
+      "BUTTON_PRISON"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Baba_Is_You": {
+    "inputs": [
+      "Baba_Is_You"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Baby_Steps": {
+    "inputs": [
+      "Baby_Steps"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Back4Blood": {
+    "inputs": [
+      "Back4Blood"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "cooperative"]
+  },
+  "Backpack_Battles": {
+    "inputs": [
+      "Backpack_Battles"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Backseat_Drivers": {
+    "inputs": [
+      "Backseat_Drivers"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Bakery_Simulator": {
+    "inputs": [
+      "Bakery_Simulator"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Balatro": {
+    "inputs": [
+      "Balatro"
+    ],
+    "is_game": true,
+    "tags": ["party_game"]
+  },
+  "Baldi's_Basics": {
+    "inputs": [
+      "Baldi's_Basics"
+    ],
+    "is_game": true,
+    "tags": ["education"]
+  },
+  "Baldur's_Gate": {
+    "inputs": [
+      "Baldur's_Gate"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "BanG_Dream": {
+    "inputs": [
+      "BanG_Dream"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Banjo-Kazooie": {
+    "inputs": [
+      "Banjo-Kazooie"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Banshee's_Last_Cry": {
+    "inputs": [
+      "Banshee's_Last_Cry"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Batman:_Arkham": {
+    "inputs": [
+      "Batman:_Arkham"
+    ],
+    "is_game": true,
+    "tags": ["open_world"]
+  },
+  "Battleblock_Theater": {
+    "inputs": [
+      "Battleblock_Theater"
+    ],
+    "is_game": true,
+    "tags": ["platformer", "cooperative"]
+  },
+  "Bayonetta": {
+    "inputs": [
+      "Bayonetta"
+    ],
+    "is_game": true,
+    "tags": ["action"]
+  },
+  "Bear's_Restaurant": {
+    "inputs": [
+      "Bear's_Restaurant"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "BeatTalk": {
+    "inputs": [
+      "BeatTalk"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Before_The_Night": {
+    "inputs": [
+      "Before_The_Night"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Behind_the_Frame": {
+    "inputs": [
+      "Behind_the_Frame"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Besiege": {
+    "inputs": [
+      "Besiege"
+    ],
+    "is_game": true,
+    "tags": ["simulator", "crafting"]
+  },
+  "Big_Brain_Academy": {
+    "inputs": [
+      "Big_Brain_Academy"
+    ],
+    "is_game": true,
+    "tags": ["education"]
+  },
+  "Binding_of_Isaac": {
+    "inputs": [
+      "Binding_of_Isaac"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "BioShock": {
+    "inputs": [
+      "BioShock"
+    ],
+    "is_game": true,
+    "tags": ["fps", "horror"]
+  },
+  "Biped": {
+    "inputs": [
+      "Biped"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Black_Desert": {
+    "inputs": [
+      "Black_Desert"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Black_Mesa": {
+    "inputs": [
+      "Black_Mesa"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "cooperative"]
+  },
+  "Black_Myth:Wukong": {
+    "inputs": [
+      "Black_Myth:Wukong"
+    ],
+    "is_game": true,
+    "tags": ["souls_like"]
+  },
+  "Blasphemous": {
+    "inputs": [
+      "Blasphemous"
+    ],
+    "is_game": true,
+    "tags": ["souls_like"]
+  },
+  "BlazBlue": {
+    "inputs": [
+      "BlazBlue"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Blazing_Sails": {
+    "inputs": [
+      "Blazing_Sails"
+    ],
+    "is_game": true,
+    "tags": ["battle_royale", "multiplayer"]
+  },
+  "Blood_Typers": {
+    "inputs": [
+      "Blood_Typers"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Bloodborne": {
+    "inputs": [
+      "Bloodborne"
+    ],
+    "is_game": true,
+    "tags": ["souls_like"]
+  },
+  "Bloodstained": {
+    "inputs": [
+      "Bloodstained"
+    ],
+    "is_game": true,
+    "tags": ["souls_like"]
+  },
+  "Blue_Archive": {
+    "inputs": [
+      "Blue_Archive"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Blue_Prince": {
+    "inputs": [
+      "Blue_Prince"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Blue_Protocol": {
+    "inputs": [
+      "Blue_Protocol"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Boku_no_Natsuyasumi": {
+    "inputs": [
+      "Boku_no_Natsuyasumi"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Bokura": {
+    "inputs": [
+      "Bokura"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Bomberman": {
+    "inputs": [
+      "Bomberman"
+    ],
+    "is_game": true,
+    "tags": ["party_game", "multiplayer"]
+  },
+  "Borderlands": {
+    "inputs": [
+      "Borderlands"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "cooperative"]
+  },
+  "Boxman's_Struggle": {
+    "inputs": [
+      "Boxman's_Struggle"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Bramble:_The_Mountain_King": {
+    "inputs": [
+      "Bramble:_The_Mountain_King"
+    ],
+    "is_game": true,
+    "tags": ["horror", "platformer"]
+  },
+  "Bravely_Default": {
+    "inputs": [
+      "Bravely_Default"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Bread_&_Fred": {
+    "inputs": [
+      "Bread_&_Fred"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "BrokenLore": {
+    "inputs": [
+      "BrokenLore"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Brotato": {
+    "inputs": [
+      "Brotato"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "party_game"]
+  },
+  "Buckshot_Roulette": {
+    "inputs": [
+      "Buckshot_Roulette"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "party_game"]
+  },
+  "Buddy_Simulator_1984": {
+    "inputs": [
+      "Buddy_Simulator_1984"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Bug_Fables": {
+    "inputs": [
+      "Bug_Fables"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Bugsnax": {
+    "inputs": [
+      "Bugsnax"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Bullets_Per_Minute": {
+    "inputs": [
+      "Bullets_Per_Minute"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer"]
+  },
+  "Bully": {
+    "inputs": [
+      "Bully"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Bum_Simulator": {
+    "inputs": [
+      "Bum_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Burger_Bistro_Story": {
+    "inputs": [
+      "Burger_Bistro_Story"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Buried": {
+    "inputs": [
+      "Buried"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Bus_Simulator": {
+    "inputs": [
+      "Bus_Simulator"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "COCOON": {
+    "inputs": [
+      "COCOON"
+    ],
+    "is_game": true,
+    "tags": ["puzzle"]
+  },
+  "CODE_VEIN": {
+    "inputs": [
+      "CODE_VEIN"
+    ],
+    "is_game": true,
+    "tags": ["souls_like"]
+  },
+  "Cafe_Master_Story": {
+    "inputs": [
+      "Cafe_Master_Story"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cake_Bash": {
+    "inputs": [
+      "Cake_Bash"
+    ],
+    "is_game": true,
+    "tags": ["party_game", "multiplayer"]
+  },
+  "Call_of_Duty": {
+    "inputs": [
+      "Call_of_Duty"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive"]
+  },
+  "Calligraphy": {
+    "inputs": [
+      "Calligraphy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Camera_Stream": {
+    "inputs": [
+      "Camera_Stream"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Captain_Tsubasa": {
+    "inputs": [
+      "Captain_Tsubasa"
+    ],
+    "is_game": true,
+    "tags": ["sports"]
+  },
+  "Cardfight!!_Vanguard": {
+    "inputs": [
+      "Cardfight!!_Vanguard"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Carry_The_Glass": {
+    "inputs": [
+      "Carry_The_Glass"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Case_of_the_Mysterious_Death_of_Keiko_Haraeda": {
+    "inputs": [
+      "Case_of_the_Mysterious_Death_of_Keiko_Haraeda"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cash_Cleaner_Simulator": {
+    "inputs": [
+      "Cash_Cleaner_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cassette_Beasts": {
+    "inputs": [
+      "Cassette_Beasts"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cast_n_Chill": {
+    "inputs": [
+      "Cast_n_Chill"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Castlevania": {
+    "inputs": [
+      "Castlevania"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Cat_Goes_Fishing": {
+    "inputs": [
+      "Cat_Goes_Fishing"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cat_Quest": {
+    "inputs": [
+      "Cat_Quest"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Catherine": {
+    "inputs": [
+      "Catherine"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "Catlateral_Damage": {
+    "inputs": [
+      "Catlateral_Damage"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cats_Organized_Neatly": {
+    "inputs": [
+      "Cats_Organized_Neatly"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Celeste": {
+    "inputs": [
+      "Celeste"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Chained_Together": {
+    "inputs": [
+      "Chained_Together"
+    ],
+    "is_game": true,
+    "tags": ["cooperative", "platformer"]
+  },
+  "Chaos_Zero_Nightmare": {
+    "inputs": [
+      "Chaos_Zero_Nightmare"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Chat_King!": {
+    "inputs": [
+      "Chat_King!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Chatbot": {
+    "inputs": [
+      "Chatbot"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cheese_Rolling": {
+    "inputs": [
+      "Cheese_Rolling"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Chess": {
+    "inputs": [
+      "Chess"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "competitive"]
+  },
+  "Chibi-Robo!": {
+    "inputs": [
+      "Chibi-Robo!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Chicken_Feet": {
+    "inputs": [
+      "Chicken_Feet"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Chicory:_A_Colorful_Tale": {
+    "inputs": [
+      "Chicory:_A_Colorful_Tale"
+    ],
+    "is_game": true,
+    "tags": ["platformer", "story"]
+  },
+  "Chillquarium": {
+    "inputs": [
+      "Chillquarium"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Chinese_Parents": {
+    "inputs": [
+      "Chinese_Parents"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Chivalry": {
+    "inputs": [
+      "Chivalry"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive"]
+  },
+  "Cho_Aniki": {
+    "inputs": [
+      "Cho_Aniki"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Chocobo": {
+    "inputs": [
+      "Chocobo"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Choo-Choo_Charles": {
+    "inputs": [
+      "Choo-Choo_Charles"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "ChouShougi": {
+    "inputs": [
+      "ChouShougi"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Chrono_Cross": {
+    "inputs": [
+      "Chrono_Cross"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Chrono_Gear": {
+    "inputs": [
+      "Chrono_Gear"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Chrono_Trigger": {
+    "inputs": [
+      "Chrono_Trigger"
+    ],
+    "is_game": true,
+    "tags": ["rpg", "story"]
+  },
+  "Chulip": {
+    "inputs": [
+      "Chulip"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cinderella_Nine": {
+    "inputs": [
+      "Cinderella_Nine"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cities_Skylines": {
+    "inputs": [
+      "Cities_Skylines"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Civilization": {
+    "inputs": [
+      "Civilization"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "competitive"]
+  },
+  "Clair_Obscur": {
+    "inputs": [
+      "Clair_Obscur"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Clock_Tower": {
+    "inputs": [
+      "Clock_Tower"
+    ],
+    "is_game": true,
+    "tags": ["horror", "story"]
+  },
+  "CloverPit": {
+    "inputs": [
+      "CloverPit"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Co-working_&_Studying": {
+    "inputs": [
+      "Co-working_&_Studying"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Codenames": {
+    "inputs": [
+      "Codenames"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Coffee_Caravan": {
+    "inputs": [
+      "Coffee_Caravan"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Coffee_Talk": {
+    "inputs": [
+      "Coffee_Talk"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "Construction_Simulator": {
+    "inputs": [
+      "Construction_Simulator"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Content_Warning": {
+    "inputs": [
+      "Content_Warning"
+    ],
+    "is_game": true,
+    "tags": ["horror", "multiplayer", "cooperative"]
+  },
+  "Contraband_Police": {
+    "inputs": [
+      "Contraband_Police"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Control": {
+    "inputs": [
+      "Control"
+    ],
+    "is_game": true,
+    "tags": ["horror"]
+  },
+  "Convenience_Store": {
+    "inputs": [
+      "Convenience_Store"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cook,_Serve,_Delicious!": {
+    "inputs": [
+      "Cook,_Serve,_Delicious!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cookie_Clicker": {
+    "inputs": [
+      "Cookie_Clicker"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cookie_Run": {
+    "inputs": [
+      "Cookie_Run"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cooking_Simulator": {
+    "inputs": [
+      "Cooking_Simulator"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Cooking_Stream": {
+    "inputs": [
+      "Cooking_Stream"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Coral_Island": {
+    "inputs": [
+      "Coral_Island"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Core_Keeper": {
+    "inputs": [
+      "Core_Keeper"
+    ],
+    "is_game": true,
+    "tags": ["crafting", "cooperative"]
+  },
+  "Coromon": {
+    "inputs": [
+      "Coromon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Corpse_Party": {
+    "inputs": [
+      "Corpse_Party"
+    ],
+    "is_game": true,
+    "tags": ["horror", "story"]
+  },
+  "Counter-Strike": {
+    "inputs": [
+      "Counter-Strike"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive", "counterstrike_like"]
+  },
+  "CounterSide": {
+    "inputs": [
+      "CounterSide"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Crab_Game": {
+    "inputs": [
+      "Crab_Game"
+    ],
+    "is_game": true,
+    "tags": ["party_game", "multiplayer"]
+  },
+  "Crane_Game": {
+    "inputs": [
+      "Crane_Game"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Crash_Bandicoot": {
+    "inputs": [
+      "Crash_Bandicoot"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Crayon_Shin-chan": {
+    "inputs": [
+      "Crayon_Shin-chan"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Crazy_Taxi": {
+    "inputs": [
+      "Crazy_Taxi"
+    ],
+    "is_game": true,
+    "tags": ["simulator", "sports"]
+  },
+  "Crime_Scene_Cleaner": {
+    "inputs": [
+      "Crime_Scene_Cleaner"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Crimson_Snow": {
+    "inputs": [
+      "Crimson_Snow"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cronos:_The_New_Dawn": {
+    "inputs": [
+      "Cronos:_The_New_Dawn"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Crow_Country": {
+    "inputs": [
+      "Crow_Country"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cry_of_Fear": {
+    "inputs": [
+      "Cry_of_Fear"
+    ],
+    "is_game": true,
+    "tags": ["fps", "horror"]
+  },
+  "Crypt_of_the_NecroDancer": {
+    "inputs": [
+      "Crypt_of_the_NecroDancer"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Cryptmaster": {
+    "inputs": [
+      "Cryptmaster"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Crystar": {
+    "inputs": [
+      "Crystar"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cubivore": {
+    "inputs": [
+      "Cubivore"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cult_of_the_Lamb": {
+    "inputs": [
+      "Cult_of_the_Lamb"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Cuphead": {
+    "inputs": [
+      "Cuphead"
+    ],
+    "is_game": true,
+    "tags": ["platformer", "multiplayer", "cooperative"]
+  },
+  "Cursed_Digicam": {
+    "inputs": [
+      "Cursed_Digicam"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Custom_Robo": {
+    "inputs": [
+      "Custom_Robo"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cut_That_Wire": {
+    "inputs": [
+      "Cut_That_Wire"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Cyberpunk_2077": {
+    "inputs": [
+      "Cyberpunk_2077"
+    ],
+    "is_game": true,
+    "tags": ["open_world", "rpg"]
+  },
+  "D4DJ": {
+    "inputs": [
+      "D4DJ"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "DAEMON_X_MACHINA": {
+    "inputs": [
+      "DAEMON_X_MACHINA"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "DARQ": {
+    "inputs": [
+      "DARQ"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "DEATH_BURGER": {
+    "inputs": [
+      "DEATH_BURGER"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "DEATH_NOTE_Killer_Within": {
+    "inputs": [
+      "DEATH_NOTE_Killer_Within"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "DEBUG_DEADLINE": {
+    "inputs": [
+      "DEBUG_DEADLINE"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "DEEEER_Simulator": {
+    "inputs": [
+      "DEEEER_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "DISTRAINT": {
+    "inputs": [
+      "DISTRAINT"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "DJMax": {
+    "inputs": [
+      "DJMax"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "DORONKO_WANKO": {
+    "inputs": [
+      "DORONKO_WANKO"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "DOTA": {
+    "inputs": [
+      "DOTA"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "DYING:_Reborn": {
+    "inputs": [
+      "DYING:_Reborn"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dance_Dance_Revolution": {
+    "inputs": [
+      "Dance_Dance_Revolution"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dancing": {
+    "inputs": [
+      "Dancing"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Danganronpa": {
+    "inputs": [
+      "Danganronpa"
+    ],
+    "is_game": true,
+    "tags": ["story", "mystery_deduction"]
+  },
+  "Dark_Deception": {
+    "inputs": [
+      "Dark_Deception"
+    ],
+    "is_game": true,
+    "tags": ["horror"]
+  },
+  "Dark_Hours": {
+    "inputs": [
+      "Dark_Hours"
+    ],
+    "is_game": true,
+    "tags": ["fps", "cooperative"]
+  },
+  "Dark_Souls": {
+    "inputs": [
+      "Dark_Souls"
+    ],
+    "is_game": true,
+    "tags": ["souls_like"]
+  },
+  "Dark_and_Darker": {
+    "inputs": [
+      "Dark_and_Darker"
+    ],
+    "is_game": true,
+    "tags": ["fps", "battle_royale", "multiplayer"]
+  },
+  "Darkest_Dungeon": {
+    "inputs": [
+      "Darkest_Dungeon"
+    ],
+    "is_game": true,
+    "tags": ["rpg", "horror"]
+  },
+  "Darkwater": {
+    "inputs": [
+      "Darkwater"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Darkwood": {
+    "inputs": [
+      "Darkwood"
+    ],
+    "is_game": true,
+    "tags": ["horror"]
+  },
+  "Darugarami_Haigorei": {
+    "inputs": [
+      "Darugarami_Haigorei"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Date_Everything!": {
+    "inputs": [
+      "Date_Everything!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dave_the_Diver": {
+    "inputs": [
+      "Dave_the_Diver"
+    ],
+    "is_game": true,
+    "tags": ["story", "cooperative"]
+  },
+  "Dawn_of_the_Breakers": {
+    "inputs": [
+      "Dawn_of_the_Breakers"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Days_With_Ollie": {
+    "inputs": [
+      "Days_With_Ollie"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dead_Cells": {
+    "inputs": [
+      "Dead_Cells"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Dead_Rising": {
+    "inputs": [
+      "Dead_Rising"
+    ],
+    "is_game": true,
+    "tags": ["horror", "open_world"]
+  },
+  "Dead_Space": {
+    "inputs": [
+      "Dead_Space"
+    ],
+    "is_game": true,
+    "tags": ["fps", "horror"]
+  },
+  "Dead_Take": {
+    "inputs": [
+      "Dead_Take"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dead_or_Alive_Xtreme": {
+    "inputs": [
+      "Dead_or_Alive_Xtreme"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Deadlock": {
+    "inputs": [
+      "Deadlock"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive"]
+  },
+  "Death's_Door": {
+    "inputs": [
+      "Death's_Door"
+    ],
+    "is_game": true,
+    "tags": ["platformer", "story"]
+  },
+  "DeathForest": {
+    "inputs": [
+      "DeathForest"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Death_Stranding": {
+    "inputs": [
+      "Death_Stranding"
+    ],
+    "is_game": true,
+    "tags": ["open_world", "story"]
+  },
+  "Deathloop": {
+    "inputs": [
+      "Deathloop"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive"]
+  },
+  "Debut_Stream": {
+    "inputs": [
+      "Debut_Stream"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Deceit": {
+    "inputs": [
+      "Deceit"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "horror"]
+  },
+  "Deduce_Together": {
+    "inputs": [
+      "Deduce_Together"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Deep_Rock_Galactic": {
+    "inputs": [
+      "Deep_Rock_Galactic"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "cooperative"]
+  },
+  "Delivering_Hope": {
+    "inputs": [
+      "Delivering_Hope"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Delta_Force": {
+    "inputs": [
+      "Delta_Force"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive"]
+  },
+  "Deltarune": {
+    "inputs": [
+      "Deltarune"
+    ],
+    "is_game": true,
+    "tags": ["rpg", "story"]
+  },
+  "Demon's_Souls": {
+    "inputs": [
+      "Demon's_Souls"
+    ],
+    "is_game": true,
+    "tags": ["souls_like"]
+  },
+  "Demonologist": {
+    "inputs": [
+      "Demonologist"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Detroit:_Become_Human": {
+    "inputs": [
+      "Detroit:_Become_Human"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "Deus_Ex": {
+    "inputs": [
+      "Deus_Ex"
+    ],
+    "is_game": true,
+    "tags": ["fps", "rpg"]
+  },
+  "Devil_Summoner": {
+    "inputs": [
+      "Devil_Summoner"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Devil_may_cry": {
+    "inputs": [
+      "Devil_may_cry"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Devour": {
+    "inputs": [
+      "Devour"
+    ],
+    "is_game": true,
+    "tags": ["horror", "multiplayer", "cooperative"]
+  },
+  "Diablo": {
+    "inputs": [
+      "Diablo"
+    ],
+    "is_game": true,
+    "tags": ["rpg", "multiplayer", "cooperative"]
+  },
+  "Dicey_Dungeons": {
+    "inputs": [
+      "Dicey_Dungeons"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "DigDigDrill": {
+    "inputs": [
+      "DigDigDrill"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Digimon": {
+    "inputs": [
+      "Digimon"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Diner_Dash": {
+    "inputs": [
+      "Diner_Dash"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dinkum": {
+    "inputs": [
+      "Dinkum"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Dino_Crisis": {
+    "inputs": [
+      "Dino_Crisis"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Disappearance": {
+    "inputs": [
+      "Disappearance"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Disaster_Report": {
+    "inputs": [
+      "Disaster_Report"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Disgaea": {
+    "inputs": [
+      "Disgaea"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Dishonored": {
+    "inputs": [
+      "Dishonored"
+    ],
+    "is_game": true,
+    "tags": ["fps", "story"]
+  },
+  "Disneyland_Adventures": {
+    "inputs": [
+      "Disneyland_Adventures"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dispatch": {
+    "inputs": [
+      "Dispatch"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dogs_Organized_Neatly": {
+    "inputs": [
+      "Dogs_Organized_Neatly"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dokapon": {
+    "inputs": [
+      "Dokapon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Doki_Doki_AI_Interrogation": {
+    "inputs": [
+      "Doki_Doki_AI_Interrogation"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Doko_Demo_Issyo": {
+    "inputs": [
+      "Doko_Demo_Issyo"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dollmare": {
+    "inputs": [
+      "Dollmare"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dome_Keeper": {
+    "inputs": [
+      "Dome_Keeper"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Don't_Scream": {
+    "inputs": [
+      "Don't_Scream"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Don't_Starve": {
+    "inputs": [
+      "Don't_Starve"
+    ],
+    "is_game": true,
+    "tags": ["crafting", "cooperative", "survival"]
+  },
+  "Donkey_Kong": {
+    "inputs": [
+      "Donkey_Kong"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Donut_County": {
+    "inputs": [
+      "Donut_County"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Doors:_Paradox": {
+    "inputs": [
+      "Doors:_Paradox"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Doraemon": {
+    "inputs": [
+      "Doraemon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dordogne": {
+    "inputs": [
+      "Dordogne"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dorfromantik": {
+    "inputs": [
+      "Dorfromantik"
+    ],
+    "is_game": true,
+    "tags": ["puzzle"]
+  },
+  "Dragon's_Dogma": {
+    "inputs": [
+      "Dragon's_Dogma"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dragon_Ball:_Gekishin_Squadra": {
+    "inputs": [
+      "Dragon_Ball:_Gekishin_Squadra"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dragon_Ball:_Sparking!": {
+    "inputs": [
+      "Dragon_Ball:_Sparking!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dragon_Ball_FighterZ": {
+    "inputs": [
+      "Dragon_Ball_FighterZ"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dragon_Ball_Z:_Dokkan_Battle": {
+    "inputs": [
+      "Dragon_Ball_Z:_Dokkan_Battle"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dragon_Ball_Z:_Kakarot": {
+    "inputs": [
+      "Dragon_Ball_Z:_Kakarot"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dragon_Quest": {
+    "inputs": [
+      "Dragon_Quest"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Drawing_Personality_Test": {
+    "inputs": [
+      "Drawing_Personality_Test"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "DreadOut": {
+    "inputs": [
+      "DreadOut"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dread_Flats": {
+    "inputs": [
+      "Dread_Flats"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dread_Hunger": {
+    "inputs": [
+      "Dread_Hunger"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dream_Club": {
+    "inputs": [
+      "Dream_Club"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dredge": {
+    "inputs": [
+      "Dredge"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Duck_Detective": {
+    "inputs": [
+      "Duck_Detective"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dude,_Stop": {
+    "inputs": [
+      "Dude,_Stop"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Duel_Masters": {
+    "inputs": [
+      "Duel_Masters"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Duolingo": {
+    "inputs": [
+      "Duolingo"
+    ],
+    "is_game": true,
+    "tags": ["language_learning", "education"]
+  },
+  "Dwarf_Fortress": {
+    "inputs": [
+      "Dwarf_Fortress"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dying_Light": {
+    "inputs": [
+      "Dying_Light"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Dyping": {
+    "inputs": [
+      "Dyping"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "EarthBound": {
+    "inputs": [
+      "EarthBound"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Earth_Defense_Force": {
+    "inputs": [
+      "Earth_Defense_Force"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Eastward": {
+    "inputs": [
+      "Eastward"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Easy_Delivery_Co": {
+    "inputs": [
+      "Easy_Delivery_Co"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Eden_Eternal": {
+    "inputs": [
+      "Eden_Eternal"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Eggy_Party": {
+    "inputs": [
+      "Eggy_Party"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Eiyuden_Chronicle": {
+    "inputs": [
+      "Eiyuden_Chronicle"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "El_Shaddai": {
+    "inputs": [
+      "El_Shaddai"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Elden_Ring": {
+    "inputs": [
+      "Elden_Ring"
+    ],
+    "is_game": true,
+    "tags": ["souls_like", "open_world"]
+  },
+  "Elder_Scrolls": {
+    "inputs": [
+      "Elder_Scrolls"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Elite_Exorcist_Miko": {
+    "inputs": [
+      "Elite_Exorcist_Miko"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Embr": {
+    "inputs": [
+      "Embr"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Emily_wants_to_play": {
+    "inputs": [
+      "Emily_wants_to_play"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Employee_of_the_Month": {
+    "inputs": [
+      "Employee_of_the_Month"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ender_Lilies": {
+    "inputs": [
+      "Ender_Lilies"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ender_Magnolia": {
+    "inputs": [
+      "Ender_Magnolia"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Endless_Monday": {
+    "inputs": [
+      "Endless_Monday"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Endless_Ocean": {
+    "inputs": [
+      "Endless_Ocean"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Enjoy_the_Diner": {
+    "inputs": [
+      "Enjoy_the_Diner"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ensemble_Stars!": {
+    "inputs": [
+      "Ensemble_Stars!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Epic_Seven": {
+    "inputs": [
+      "Epic_Seven"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Eryi's_Action": {
+    "inputs": [
+      "Eryi's_Action"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Escalator": {
+    "inputs": [
+      "Escalator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Escape_From_Duckov": {
+    "inputs": [
+      "Escape_From_Duckov"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Escape_Simulator": {
+    "inputs": [
+      "Escape_Simulator"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "cooperative"]
+  },
+  "Escape_from_Menhera-chan's_House": {
+    "inputs": [
+      "Escape_from_Menhera-chan's_House"
+    ],
+    "is_game": true,
+    "tags": ["mystery"]
+  },
+  "Escape_from_Naraka": {
+    "inputs": [
+      "Escape_from_Naraka"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Escape_the_Ayuwoki": {
+    "inputs": [
+      "Escape_the_Ayuwoki"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Eternal_Return": {
+    "inputs": [
+      "Eternal_Return"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Etrian_Odyssey": {
+    "inputs": [
+      "Etrian_Odyssey"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Everhood": {
+    "inputs": [
+      "Everhood"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Everybody's_Golf": {
+    "inputs": [
+      "Everybody's_Golf"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Exhausted_Man": {
+    "inputs": [
+      "Exhausted_Man"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Exoprimal": {
+    "inputs": [
+      "Exoprimal"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "F-ZERO": {
+    "inputs": [
+      "F-ZERO"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "F.E.A.R.": {
+    "inputs": [
+      "F.E.A.R."
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "F1": {
+    "inputs": [
+      "F1"
+    ],
+    "is_game": true,
+    "tags": ["sports", "simulator"]
+  },
+  "FANTASY_LIFE": {
+    "inputs": [
+      "FANTASY_LIFE"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "FESTIBATTLE": {
+    "inputs": [
+      "FESTIBATTLE"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "FIFA": {
+    "inputs": [
+      "FIFA"
+    ],
+    "is_game": true,
+    "tags": ["sports", "multiplayer"]
+  },
+  "FOAMSTARS": {
+    "inputs": [
+      "FOAMSTARS"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "FTL": {
+    "inputs": [
+      "FTL"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Factorio": {
+    "inputs": [
+      "Factorio"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Faith": {
+    "inputs": [
+      "Faith"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fallout": {
+    "inputs": [
+      "Fallout"
+    ],
+    "is_game": true,
+    "tags": ["rpg", "open_world"]
+  },
+  "False_Dream": {
+    "inputs": [
+      "False_Dream"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Family_Feud": {
+    "inputs": [
+      "Family_Feud"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Far_Cry": {
+    "inputs": [
+      "Far_Cry"
+    ],
+    "is_game": true,
+    "tags": ["fps", "open_world"]
+  },
+  "Farming_Simulator": {
+    "inputs": [
+      "Farming_Simulator"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Fashion_Dreamer": {
+    "inputs": [
+      "Fashion_Dreamer"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fast_Food_Simulator": {
+    "inputs": [
+      "Fast_Food_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fatal_Frame": {
+    "inputs": [
+      "Fatal_Frame"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fatal_Fury": {
+    "inputs": [
+      "Fatal_Fury"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "competitive"]
+  },
+  "Fate/Grand_Order": {
+    "inputs": [
+      "Fate/Grand_Order"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fate/Samurai_Remnant": {
+    "inputs": [
+      "Fate/Samurai_Remnant"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fate/stay_night": {
+    "inputs": [
+      "Fate/stay_night"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fate_Trigger": {
+    "inputs": [
+      "Fate_Trigger"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fears_to_Fathom": {
+    "inputs": [
+      "Fears_to_Fathom"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Feeding_Frenzy": {
+    "inputs": [
+      "Feeding_Frenzy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Feign": {
+    "inputs": [
+      "Feign"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fields_of_Mistria": {
+    "inputs": [
+      "Fields_of_Mistria"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fight_Crab": {
+    "inputs": [
+      "Fight_Crab"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Final_Fantasy_Online": {
+    "inputs": [
+      "Final_Fantasy_Online"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Final_fantasy": {
+    "inputs": [
+      "Final_fantasy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Finding_Paradise": {
+    "inputs": [
+      "Finding_Paradise"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fire_Emblem": {
+    "inputs": [
+      "Fire_Emblem"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Fireworks_Mania": {
+    "inputs": [
+      "Fireworks_Mania"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fishing_Planet": {
+    "inputs": [
+      "Fishing_Planet"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fit_Boxing": {
+    "inputs": [
+      "Fit_Boxing"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fling_to_the_Finish": {
+    "inputs": [
+      "Fling_to_the_Finish"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Food_Delivery_Service": {
+    "inputs": [
+      "Food_Delivery_Service"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Forewarned": {
+    "inputs": [
+      "Forewarned"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fork_Road": {
+    "inputs": [
+      "Fork_Road"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Fortnite": {
+    "inputs": [
+      "Fortnite"
+    ],
+    "is_game": true,
+    "tags": ["battle_royale", "multiplayer", "cooperative"]
+  },
+  "Fortune_telling": {
+    "inputs": [
+      "Fortune_telling"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Forza": {
+    "inputs": [
+      "Forza"
+    ],
+    "is_game": true,
+    "tags": ["sports", "simulator"]
+  },
+  "FragPunk": {
+    "inputs": [
+      "FragPunk"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "FreeChat": {
+    "inputs": [
+      "FreeChat"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Free_Fire": {
+    "inputs": [
+      "Free_Fire"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Friday_Night_Funkin'": {
+    "inputs": [
+      "Friday_Night_Funkin'"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Friday_the_13th": {
+    "inputs": [
+      "Friday_the_13th"
+    ],
+    "is_game": true,
+    "tags": ["horror", "multiplayer"]
+  },
+  "Frog_Detective": {
+    "inputs": [
+      "Frog_Detective"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Frostpunk": {
+    "inputs": [
+      "Frostpunk"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Full_of_Cats": {
+    "inputs": [
+      "Full_of_Cats"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Furi": {
+    "inputs": [
+      "Furi"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "GOD_EATER": {
+    "inputs": [
+      "GOD_EATER"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "GOHOME": {
+    "inputs": [
+      "GOHOME"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "GONE_Fishing": {
+    "inputs": [
+      "GONE_Fishing"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "GRIME": {
+    "inputs": [
+      "GRIME"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "GTA": {
+    "inputs": [
+      "GTA"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gal*Gun": {
+    "inputs": [
+      "Gal*Gun"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Galaxy_Burger": {
+    "inputs": [
+      "Galaxy_Burger"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Game_Builder_Garage": {
+    "inputs": [
+      "Game_Builder_Garage"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Game_Dev_Story": {
+    "inputs": [
+      "Game_Dev_Story"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gameshow": {
+    "inputs": [
+      "Gameshow"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ganbare_Goemon": {
+    "inputs": [
+      "Ganbare_Goemon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gang_Beasts": {
+    "inputs": [
+      "Gang_Beasts"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Garry's_Mod": {
+    "inputs": [
+      "Garry's_Mod"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "cooperative"]
+  },
+  "Garten_of_Banban": {
+    "inputs": [
+      "Garten_of_Banban"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gartic_Phone": {
+    "inputs": [
+      "Gartic_Phone"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gathering": {
+    "inputs": [
+      "Gathering"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gears_of_War": {
+    "inputs": [
+      "Gears_of_War"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Genital_Jousting": {
+    "inputs": [
+      "Genital_Jousting"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "GeoGuessr": {
+    "inputs": [
+      "GeoGuessr"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Geometry_Dash": {
+    "inputs": [
+      "Geometry_Dash"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Get_To_Work": {
+    "inputs": [
+      "Get_To_Work"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ghost_Exorcism_Inc": {
+    "inputs": [
+      "Ghost_Exorcism_Inc"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ghost_Room": {
+    "inputs": [
+      "Ghost_Room"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ghost_Trick": {
+    "inputs": [
+      "Ghost_Trick"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "Ghost_Watchers": {
+    "inputs": [
+      "Ghost_Watchers"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ghostrunner": {
+    "inputs": [
+      "Ghostrunner"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ghosts_'n_Goblins": {
+    "inputs": [
+      "Ghosts_'n_Goblins"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ghostwire:_Tokyo": {
+    "inputs": [
+      "Ghostwire:_Tokyo"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Girls_Made_Pudding": {
+    "inputs": [
+      "Girls_Made_Pudding"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Glyphica": {
+    "inputs": [
+      "Glyphica"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gnosia": {
+    "inputs": [
+      "Gnosia"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Goat_Simulator": {
+    "inputs": [
+      "Goat_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Goblin_Cleanup": {
+    "inputs": [
+      "Goblin_Cleanup"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Goblin_Gnome_Horn": {
+    "inputs": [
+      "Goblin_Gnome_Horn"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "God_Field": {
+    "inputs": [
+      "God_Field"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "God_of_War": {
+    "inputs": [
+      "God_of_War"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Golf_It!": {
+    "inputs": [
+      "Golf_It!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Golf_With_Your_Friends": {
+    "inputs": [
+      "Golf_With_Your_Friends"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Good_Job!": {
+    "inputs": [
+      "Good_Job!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Good_Pizza,_Great_Pizza": {
+    "inputs": [
+      "Good_Pizza,_Great_Pizza"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Goonect": {
+    "inputs": [
+      "Goonect"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Goose_Goose_Duck": {
+    "inputs": [
+      "Goose_Goose_Duck"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gorilla_Vs_100_Men": {
+    "inputs": [
+      "Gorilla_Vs_100_Men"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gorogoa": {
+    "inputs": [
+      "Gorogoa"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gradius": {
+    "inputs": [
+      "Gradius"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Graduation": {
+    "inputs": [
+      "Graduation"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gran_Saga": {
+    "inputs": [
+      "Gran_Saga"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gran_Turismo": {
+    "inputs": [
+      "Gran_Turismo"
+    ],
+    "is_game": true,
+    "tags": ["sports", "simulator"]
+  },
+  "Granblue_Fantasy": {
+    "inputs": [
+      "Granblue_Fantasy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Granny_Simulator": {
+    "inputs": [
+      "Granny_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Graveyard_Keeper": {
+    "inputs": [
+      "Graveyard_Keeper"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Green_Hell": {
+    "inputs": [
+      "Green_Hell"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gris": {
+    "inputs": [
+      "Gris"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Groove_Coaster": {
+    "inputs": [
+      "Groove_Coaster"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Grounded": {
+    "inputs": [
+      "Grounded"
+    ],
+    "is_game": true,
+    "tags": ["crafting", "cooperative"]
+  },
+  "Grunn": {
+    "inputs": [
+      "Grunn"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Guardian_Tales": {
+    "inputs": [
+      "Guardian_Tales"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Guilty_Gear": {
+    "inputs": [
+      "Guilty_Gear"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "competitive"]
+  },
+  "Guilty_as_Sock!": {
+    "inputs": [
+      "Guilty_as_Sock!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gundam_Breaker": {
+    "inputs": [
+      "Gundam_Breaker"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gundam_Evolution": {
+    "inputs": [
+      "Gundam_Evolution"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gungeon": {
+    "inputs": [
+      "Gungeon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Gunpla": {
+    "inputs": [
+      "Gunpla"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "HARVESTELLA": {
+    "inputs": [
+      "HARVESTELLA"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hades": {
+    "inputs": [
+      "Hades"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Haisonmeguri": {
+    "inputs": [
+      "Haisonmeguri"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Half-Life": {
+    "inputs": [
+      "Half-Life"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Halo": {
+    "inputs": [
+      "Halo"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive"]
+  },
+  "Hamtaro": {
+    "inputs": [
+      "Hamtaro"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Happy's_Humble_Burgers": {
+    "inputs": [
+      "Happy's_Humble_Burgers"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Happy_Game": {
+    "inputs": [
+      "Happy_Game"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Haunted_Property": {
+    "inputs": [
+      "Haunted_Property"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hayarigami": {
+    "inputs": [
+      "Hayarigami"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Headbangers": {
+    "inputs": [
+      "Headbangers"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hearthstone": {
+    "inputs": [
+      "Hearthstone"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "competitive"]
+  },
+  "Heave_Ho": {
+    "inputs": [
+      "Heave_Ho"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Heaven_Burns_Red": {
+    "inputs": [
+      "Heaven_Burns_Red"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Heavenly_Bodies": {
+    "inputs": [
+      "Heavenly_Bodies"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Heavy_Rain": {
+    "inputs": [
+      "Heavy_Rain"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hello_Kitty": {
+    "inputs": [
+      "Hello_Kitty"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hello_Neighbor": {
+    "inputs": [
+      "Hello_Neighbor"
+    ],
+    "is_game": true,
+    "tags": ["horror", "stealth"]
+  },
+  "Henry_Stickmin": {
+    "inputs": [
+      "Henry_Stickmin"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Her_Story": {
+    "inputs": [
+      "Her_Story"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hi-Fi_Rush": {
+    "inputs": [
+      "Hi-Fi_Rush"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hidden_Folks": {
+    "inputs": [
+      "Hidden_Folks"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hidden_Through_Time": {
+    "inputs": [
+      "Hidden_Through_Time"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hide_and_Shriek": {
+    "inputs": [
+      "Hide_and_Shriek"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Himei_Dam": {
+    "inputs": [
+      "Himei_Dam"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hitman": {
+    "inputs": [
+      "Hitman"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hodgepodge_Hunch": {
+    "inputs": [
+      "Hodgepodge_Hunch"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hogwarts_Legacy": {
+    "inputs": [
+      "Hogwarts_Legacy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hollow_Cocoon": {
+    "inputs": [
+      "Hollow_Cocoon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hollow_Knight": {
+    "inputs": [
+      "Hollow_Knight"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Holo's_Hanafuda": {
+    "inputs": [
+      "Holo's_Hanafuda"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "HoloCure": {
+    "inputs": [
+      "HoloCure"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "HoloParade": {
+    "inputs": [
+      "HoloParade"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "HoloRun": {
+    "inputs": [
+      "HoloRun"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Holo_X_Break": {
+    "inputs": [
+      "Holo_X_Break"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Holoearth": {
+    "inputs": [
+      "Holoearth"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hololive_Treasure_Mountain": {
+    "inputs": [
+      "Hololive_Treasure_Mountain"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Home_Sweet_Home": {
+    "inputs": [
+      "Home_Sweet_Home"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Homicipher": {
+    "inputs": [
+      "Homicipher"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Honkai_Star_Rail": {
+    "inputs": [
+      "Honkai_Star_Rail"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hookah_Haze": {
+    "inputs": [
+      "Hookah_Haze"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "HorrorToleranceTest": {
+    "inputs": [
+      "HorrorToleranceTest"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Horse_racing": {
+    "inputs": [
+      "Horse_racing"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hospital_666": {
+    "inputs": [
+      "Hospital_666"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hot_Springs_Story": {
+    "inputs": [
+      "Hot_Springs_Story"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hotline_Miami": {
+    "inputs": [
+      "Hotline_Miami"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "House_Flipper": {
+    "inputs": [
+      "House_Flipper"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hoyeon": {
+    "inputs": [
+      "Hoyeon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Humanity": {
+    "inputs": [
+      "Humanity"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hundred_Line": {
+    "inputs": [
+      "Hundred_Line"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hunie": {
+    "inputs": [
+      "Hunie"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Hunt:_Showdown": {
+    "inputs": [
+      "Hunt:_Showdown"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive"]
+  },
+  "Hypnospace_Outlaw": {
+    "inputs": [
+      "Hypnospace_Outlaw"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "I'm_going_to_die_if_I_don't_eat_sushi": {
+    "inputs": [
+      "I'm_going_to_die_if_I_don't_eat_sushi"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "I'm_on_Observation_Duty": {
+    "inputs": [
+      "I'm_on_Observation_Duty"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "INSIDE": {
+    "inputs": [
+      "INSIDE"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "I_Am_Bread": {
+    "inputs": [
+      "I_Am_Bread"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "I_Am_Fish": {
+    "inputs": [
+      "I_Am_Fish"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "I_Am_Part-time_Worker!!": {
+    "inputs": [
+      "I_Am_Part-time_Worker!!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "I_Dont_Fall": {
+    "inputs": [
+      "I_Dont_Fall"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "I_Wanna_be_the_Guy": {
+    "inputs": [
+      "I_Wanna_be_the_Guy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ib": {
+    "inputs": [
+      "Ib"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ice_Climber": {
+    "inputs": [
+      "Ice_Climber"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Icey": {
+    "inputs": [
+      "Icey"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Identity_V": {
+    "inputs": [
+      "Identity_V"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Idol_Manager": {
+    "inputs": [
+      "Idol_Manager"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Idol_Showdown": {
+    "inputs": [
+      "Idol_Showdown"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ikki": {
+    "inputs": [
+      "Ikki"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Illusion_Carnival": {
+    "inputs": [
+      "Illusion_Carnival"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Image_editing": {
+    "inputs": [
+      "Image_editing"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Imi_ga_wakaru_to_kowai_manga": {
+    "inputs": [
+      "Imi_ga_wakaru_to_kowai_manga"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "In_Sound_Mind": {
+    "inputs": [
+      "In_Sound_Mind"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Inazuma_Eleven": {
+    "inputs": [
+      "Inazuma_Eleven"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Indiana_Jones": {
+    "inputs": [
+      "Indiana_Jones"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Infinite_Pizza": {
+    "inputs": [
+      "Infinite_Pizza"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Infliction": {
+    "inputs": [
+      "Infliction"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Inkya_LoveCome": {
+    "inputs": [
+      "Inkya_LoveCome"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Insaniquarium": {
+    "inputs": [
+      "Insaniquarium"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Inscryption": {
+    "inputs": [
+      "Inscryption"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Instant_Propose": {
+    "inputs": [
+      "Instant_Propose"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Inunaki_Tunnel": {
+    "inputs": [
+      "Inunaki_Tunnel"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Inverted_Angel": {
+    "inputs": [
+      "Inverted_Angel"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Iron_Lung": {
+    "inputs": [
+      "Iron_Lung"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Is_Simon_There": {
+    "inputs": [
+      "Is_Simon_There"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Is_This_Seat_Taken?": {
+    "inputs": [
+      "Is_This_Seat_Taken?"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "It_takes_two": {
+    "inputs": [
+      "It_takes_two"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Jackbox": {
+    "inputs": [
+      "Jackbox"
+    ],
+    "is_game": true,
+    "tags": ["party_game", "multiplayer"]
+  },
+  "Japan_Stigmatized_Property": {
+    "inputs": [
+      "Japan_Stigmatized_Property"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Japanese_Only": {
+    "inputs": [
+      "Japanese_Only"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "JellyCar": {
+    "inputs": [
+      "JellyCar"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Jisatsu": {
+    "inputs": [
+      "Jisatsu"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Journey": {
+    "inputs": [
+      "Journey"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Judgment": {
+    "inputs": [
+      "Judgment"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Jump_King": {
+    "inputs": [
+      "Jump_King"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Jumpscare_Scare_Jump": {
+    "inputs": [
+      "Jumpscare_Scare_Jump"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Just_Crow_Things": {
+    "inputs": [
+      "Just_Crow_Things"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Just_Dance": {
+    "inputs": [
+      "Just_Dance"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Just_Grill_the_Steak!": {
+    "inputs": [
+      "Just_Grill_the_Steak!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "KIDS": {
+    "inputs": [
+      "KIDS"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kaerimichi": {
+    "inputs": [
+      "Kaerimichi"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kanji_de_GO!": {
+    "inputs": [
+      "Kanji_de_GO!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Katamari_Damacy": {
+    "inputs": [
+      "Katamari_Damacy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Katana_Zero": {
+    "inputs": [
+      "Katana_Zero"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kazoe_Meshi": {
+    "inputs": [
+      "Kazoe_Meshi"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Keep_Digging": {
+    "inputs": [
+      "Keep_Digging"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kemono_Teatime": {
+    "inputs": [
+      "Kemono_Teatime"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kena:_Bridge_of_Spirits": {
+    "inputs": [
+      "Kena:_Bridge_of_Spirits"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "KeyWe": {
+    "inputs": [
+      "KeyWe"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kid_Icarus": {
+    "inputs": [
+      "Kid_Icarus"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kikai": {
+    "inputs": [
+      "Kikai"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kill_It_With_Fire": {
+    "inputs": [
+      "Kill_It_With_Fire"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Killer_Frequency": {
+    "inputs": [
+      "Killer_Frequency"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kimetsu_no_Yaiba_-_The_Hinokami_Chronicles": {
+    "inputs": [
+      "Kimetsu_no_Yaiba_-_The_Hinokami_Chronicles"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kingdom_Come": {
+    "inputs": [
+      "Kingdom_Come"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kingdom_Hearts": {
+    "inputs": [
+      "Kingdom_Hearts"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Kingdom_of_Loathing_series": {
+    "inputs": [
+      "Kingdom_of_Loathing_series"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kinki_Spiritual_Affairs_Bureau": {
+    "inputs": [
+      "Kinki_Spiritual_Affairs_Bureau"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kirby": {
+    "inputs": [
+      "Kirby"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Klonoa": {
+    "inputs": [
+      "Klonoa"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Knives_Out": {
+    "inputs": [
+      "Knives_Out"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Knockout_City": {
+    "inputs": [
+      "Knockout_City"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Konbini_ni_Kuru_Jouren-san": {
+    "inputs": [
+      "Konbini_ni_Kuru_Jouren-san"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kunitsu-Gami:_Path_of_the_Goddess": {
+    "inputs": [
+      "Kunitsu-Gami:_Path_of_the_Goddess"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kuru_Kuru_Kururin": {
+    "inputs": [
+      "Kuru_Kuru_Kururin"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kusodeka_Bayashi": {
+    "inputs": [
+      "Kusodeka_Bayashi"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Kuuki_yomi": {
+    "inputs": [
+      "Kuuki_yomi"
+    ],
+    "is_game": true,
+    "tags": ["language_learning", "education"]
+  },
+  "L.A._Noire": {
+    "inputs": [
+      "L.A._Noire"
+    ],
+    "is_game": true,
+    "tags": ["mystery"]
+  },
+  "L4D2": {
+    "inputs": [
+      "L4D2"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "LAPIDARY": {
+    "inputs": [
+      "LAPIDARY"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "LAST_CHICK": {
+    "inputs": [
+      "LAST_CHICK"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Labyrinthine": {
+    "inputs": [
+      "Labyrinthine"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Language_learning": {
+    "inputs": [
+      "Language_learning"
+    ],
+    "is_game": true,
+    "tags": ["language_learning"]
+  },
+  "Last_Day_of_June": {
+    "inputs": [
+      "Last_Day_of_June"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "Layers_of_Fear": {
+    "inputs": [
+      "Layers_of_Fear"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "League_of_Legends": {
+    "inputs": [
+      "League_of_Legends"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "competitive"]
+  },
+  "Lethal_Company": {
+    "inputs": [
+      "Lethal_Company"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Level_Devil": {
+    "inputs": [
+      "Level_Devil"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "LiEat": {
+    "inputs": [
+      "LiEat"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Liar's_Bar": {
+    "inputs": [
+      "Liar's_Bar"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Lies_of_P": {
+    "inputs": [
+      "Lies_of_P"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Life_is_Strange": {
+    "inputs": [
+      "Life_is_Strange"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "Lil_Gator_Game": {
+    "inputs": [
+      "Lil_Gator_Game"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Limbo": {
+    "inputs": [
+      "Limbo"
+    ],
+    "is_game": true,
+    "tags": ["platformer", "horror"]
+  },
+  "Limbus_Company": {
+    "inputs": [
+      "Limbus_Company"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "LiminalCore": {
+    "inputs": [
+      "LiminalCore"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Little_Friends": {
+    "inputs": [
+      "Little_Friends"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Little_Goody_Two_Shoes": {
+    "inputs": [
+      "Little_Goody_Two_Shoes"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Little_Kitty,_Big_City": {
+    "inputs": [
+      "Little_Kitty,_Big_City"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Little_Misfortune": {
+    "inputs": [
+      "Little_Misfortune"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "Little_Witch_Nobeta": {
+    "inputs": [
+      "Little_Witch_Nobeta"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Little_Witch_in_the_Woods": {
+    "inputs": [
+      "Little_Witch_in_the_Woods"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Live_A_Live": {
+    "inputs": [
+      "Live_A_Live"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Lively_Chair_Simulator": {
+    "inputs": [
+      "Lively_Chair_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Livestream:_Escape": {
+    "inputs": [
+      "Livestream:_Escape"
+    ],
+    "is_game": true,
+    "tags": ["mystery"]
+  },
+  "Lobotomy_Corporation": {
+    "inputs": [
+      "Lobotomy_Corporation"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Loop_Hero": {
+    "inputs": [
+      "Loop_Hero"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Lords_Mobile": {
+    "inputs": [
+      "Lords_Mobile"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Lost_But_Found": {
+    "inputs": [
+      "Lost_But_Found"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Lost_Egg": {
+    "inputs": [
+      "Lost_Egg"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Lost_in_Random": {
+    "inputs": [
+      "Lost_in_Random"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Love,_Ghostie": {
+    "inputs": [
+      "Love,_Ghostie"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Love,_Sam": {
+    "inputs": [
+      "Love,_Sam"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Love_Live": {
+    "inputs": [
+      "Love_Live"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Love_and_Deepspace": {
+    "inputs": [
+      "Love_and_Deepspace"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Luck_be_a_Landlord": {
+    "inputs": [
+      "Luck_be_a_Landlord"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Luigi's_Mansion": {
+    "inputs": [
+      "Luigi's_Mansion"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Luma_Island": {
+    "inputs": [
+      "Luma_Island"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Lunch_Lady": {
+    "inputs": [
+      "Lunch_Lady"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "MAKOTO_WAKAIDO’s_Case_Files": {
+    "inputs": [
+      "MAKOTO_WAKAIDO’s_Case_Files"
+    ],
+    "is_game": true,
+    "tags": ["story", "mystery"]
+  },
+  "MASAGORO": {
+    "inputs": [
+      "MASAGORO"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "MIMESIS": {
+    "inputs": [
+      "MIMESIS"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "MO:Astray": {
+    "inputs": [
+      "MO:Astray"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "MOOZ": {
+    "inputs": [
+      "MOOZ"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "MYRIAD_DEATH": {
+    "inputs": [
+      "MYRIAD_DEATH"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Machorium": {
+    "inputs": [
+      "Machorium"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mad_Father": {
+    "inputs": [
+      "Mad_Father"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mad_Rat_Dead": {
+    "inputs": [
+      "Mad_Rat_Dead"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Madison": {
+    "inputs": [
+      "Madison"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mafia": {
+    "inputs": [
+      "Mafia"
+    ],
+    "is_game": true,
+    "tags": ["open_world"]
+  },
+  "Mage_Arena": {
+    "inputs": [
+      "Mage_Arena"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Magic_Pengel": {
+    "inputs": [
+      "Magic_Pengel"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mahjong": {
+    "inputs": [
+      "Mahjong"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mahou_Shoujo_no_Majo_Saiban": {
+    "inputs": [
+      "Mahou_Shoujo_no_Majo_Saiban"
+    ],
+    "is_game": true,
+    "tags": ["story", "mystery"]
+  },
+  "Maid_Cafe_on_Electric_Street": {
+    "inputs": [
+      "Maid_Cafe_on_Electric_Street"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Make_it!_series": {
+    "inputs": [
+      "Make_it!_series"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mana": {
+    "inputs": [
+      "Mana"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Maneater": {
+    "inputs": [
+      "Maneater"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Manifold_Garden": {
+    "inputs": [
+      "Manifold_Garden"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Manny's": {
+    "inputs": [
+      "Manny's"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Manor_Lords": {
+    "inputs": [
+      "Manor_Lords"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "MapleStory": {
+    "inputs": [
+      "MapleStory"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Marfusha": {
+    "inputs": [
+      "Marfusha"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mario_64": {
+    "inputs": [
+      "Mario_64"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mario_Galaxy": {
+    "inputs": [
+      "Mario_Galaxy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mario_Kart": {
+    "inputs": [
+      "Mario_Kart"
+    ],
+    "is_game": true,
+    "tags": ["racing"]
+  },
+  "Mario_Maker": {
+    "inputs": [
+      "Mario_Maker"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mario_Party": {
+    "inputs": [
+      "Mario_Party"
+    ],
+    "is_game": true,
+    "tags": ["party_game", "multiplayer"]
+  },
+  "Mario_Sports": {
+    "inputs": [
+      "Mario_Sports"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mario_Sunshine": {
+    "inputs": [
+      "Mario_Sunshine"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Marshmallow": {
+    "inputs": [
+      "Marshmallow"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Marvel_Rivals": {
+    "inputs": [
+      "Marvel_Rivals"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Master_Detective_Archives:_Rain_Code": {
+    "inputs": [
+      "Master_Detective_Archives:_Rain_Code"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Matching_Appli_de_Deaichuu_Shitemita": {
+    "inputs": [
+      "Matching_Appli_de_Deaichuu_Shitemita"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mayonaka_10_chome": {
+    "inputs": [
+      "Mayonaka_10_chome"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mbembe_Radio": {
+    "inputs": [
+      "Mbembe_Radio"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "McPixel": {
+    "inputs": [
+      "McPixel"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mecha_BREAK": {
+    "inputs": [
+      "Mecha_BREAK"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Meg's_Monster": {
+    "inputs": [
+      "Meg's_Monster"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mega_Man": {
+    "inputs": [
+      "Mega_Man"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Megabonk": {
+    "inputs": [
+      "Megabonk"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Megami_Tensei": {
+    "inputs": [
+      "Megami_Tensei"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Melatonin": {
+    "inputs": [
+      "Melatonin"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Melty_Blood": {
+    "inputs": [
+      "Melty_Blood"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Menherafflesia": {
+    "inputs": [
+      "Menherafflesia"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Metal_Gear": {
+    "inputs": [
+      "Metal_Gear"
+    ],
+    "is_game": true,
+    "tags": ["stealth"]
+  },
+  "Metal_Slug": {
+    "inputs": [
+      "Metal_Slug"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Metal_Wolf_Chaos": {
+    "inputs": [
+      "Metal_Wolf_Chaos"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Metaphor:_ReFantazio": {
+    "inputs": [
+      "Metaphor:_ReFantazio"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Metroid": {
+    "inputs": [
+      "Metroid"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "MiSide": {
+    "inputs": [
+      "MiSide"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Microsoft_Flight_Simulator": {
+    "inputs": [
+      "Microsoft_Flight_Simulator"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Midnight_Ramen": {
+    "inputs": [
+      "Midnight_Ramen"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Miitopia": {
+    "inputs": [
+      "Miitopia"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "MikuMikuDance": {
+    "inputs": [
+      "MikuMikuDance"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mindhack": {
+    "inputs": [
+      "Mindhack"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Minecraft_Dungeons": {
+    "inputs": [
+      "Minecraft_Dungeons"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Minesweeper": {
+    "inputs": [
+      "Minesweeper"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mini_Motorways": {
+    "inputs": [
+      "Mini_Motorways"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Misao": {
+    "inputs": [
+      "Misao"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Missing_Children": {
+    "inputs": [
+      "Missing_Children"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mister_Mosquito": {
+    "inputs": [
+      "Mister_Mosquito"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mitsugasero!_Jo'on-chan!!": {
+    "inputs": [
+      "Mitsugasero!_Jo'on-chan!!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mobile_Legends": {
+    "inputs": [
+      "Mobile_Legends"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mojipittan": {
+    "inputs": [
+      "Mojipittan"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mom_Hid_My_Game": {
+    "inputs": [
+      "Mom_Hid_My_Game"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Monopoly": {
+    "inputs": [
+      "Monopoly"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Monster_Prom": {
+    "inputs": [
+      "Monster_Prom"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Monster_Rancher": {
+    "inputs": [
+      "Monster_Rancher"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Monster_Strike": {
+    "inputs": [
+      "Monster_Strike"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Moonlighter": {
+    "inputs": [
+      "Moonlighter"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Moonstone_Island": {
+    "inputs": [
+      "Moonstone_Island"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mordhau": {
+    "inputs": [
+      "Mordhau"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Morodashi_Sumo": {
+    "inputs": [
+      "Morodashi_Sumo"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mortuary_Assistant": {
+    "inputs": [
+      "Mortuary_Assistant"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mother_Simulator": {
+    "inputs": [
+      "Mother_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mouthwashing": {
+    "inputs": [
+      "Mouthwashing"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Moving_Out": {
+    "inputs": [
+      "Moving_Out"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mr.President!": {
+    "inputs": [
+      "Mr.President!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Mr._Driller": {
+    "inputs": [
+      "Mr._Driller"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Murky_Divers": {
+    "inputs": [
+      "Murky_Divers"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Music_Production": {
+    "inputs": [
+      "Music_Production"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Musical_Instrument": {
+    "inputs": [
+      "Musical_Instrument"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Musou": {
+    "inputs": [
+      "Musou"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "My_Friendly_Neighborhood": {
+    "inputs": [
+      "My_Friendly_Neighborhood"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "My_Hero_Ultra_Rumble": {
+    "inputs": [
+      "My_Hero_Ultra_Rumble"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "My_Little_Puppy": {
+    "inputs": [
+      "My_Little_Puppy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "My_Time": {
+    "inputs": [
+      "My_Time"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "NARUTO": {
+    "inputs": [
+      "NARUTO"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "NEKOPARA": {
+    "inputs": [
+      "NEKOPARA"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "NEKO_GOLF": {
+    "inputs": [
+      "NEKO_GOLF"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "NKODICE": {
+    "inputs": [
+      "NKODICE"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "NOROI_KAGO": {
+    "inputs": [
+      "NOROI_KAGO"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "NOSTALGIC_TRAIN": {
+    "inputs": [
+      "NOSTALGIC_TRAIN"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Nagashi_Macho_Men": {
+    "inputs": [
+      "Nagashi_Macho_Men"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Naribikimura": {
+    "inputs": [
+      "Naribikimura"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Nazotoki_IQ_Quiz": {
+    "inputs": [
+      "Nazotoki_IQ_Quiz"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Necesse": {
+    "inputs": [
+      "Necesse"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Need_for_Speed": {
+    "inputs": [
+      "Need_for_Speed"
+    ],
+    "is_game": true,
+    "tags": ["racing"]
+  },
+  "Needy_Streamer_Overload": {
+    "inputs": [
+      "Needy_Streamer_Overload"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Neon_White": {
+    "inputs": [
+      "Neon_White"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Neopets": {
+    "inputs": [
+      "Neopets"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Neva": {
+    "inputs": [
+      "Neva"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Neverending_Nightmares": {
+    "inputs": [
+      "Neverending_Nightmares"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "News_Show": {
+    "inputs": [
+      "News_Show"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Niconico-san": {
+    "inputs": [
+      "Niconico-san"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Night_Delivery": {
+    "inputs": [
+      "Night_Delivery"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Night_Security": {
+    "inputs": [
+      "Night_Security"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Night_in_the_Woods": {
+    "inputs": [
+      "Night_in_the_Woods"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "Nine_Sols": {
+    "inputs": [
+      "Nine_Sols"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ninja_Gaiden": {
+    "inputs": [
+      "Ninja_Gaiden"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Nintendo_Switch_2_Welcome_Tour": {
+    "inputs": [
+      "Nintendo_Switch_2_Welcome_Tour"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Nintendo_Switch_Sports": {
+    "inputs": [
+      "Nintendo_Switch_Sports"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Nintendo_World_Championships": {
+    "inputs": [
+      "Nintendo_World_Championships"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Nioh": {
+    "inputs": [
+      "Nioh"
+    ],
+    "is_game": true,
+    "tags": ["souls_like"]
+  },
+  "Nippon_Marathon": {
+    "inputs": [
+      "Nippon_Marathon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "No,_I'm_not_a_Human": {
+    "inputs": [
+      "No,_I'm_not_a_Human"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "No_Case_Should_Remain_Unsolved": {
+    "inputs": [
+      "No_Case_Should_Remain_Unsolved"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "No_Man's_Sky": {
+    "inputs": [
+      "No_Man's_Sky"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "No_More_Heroes": {
+    "inputs": [
+      "No_More_Heroes"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Nobunaga's_Ambition": {
+    "inputs": [
+      "Nobunaga's_Ambition"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Noita": {
+    "inputs": [
+      "Noita"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Nun_Massacre": {
+    "inputs": [
+      "Nun_Massacre"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "OMUSUBI": {
+    "inputs": [
+      "OMUSUBI"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "OPUS": {
+    "inputs": [
+      "OPUS"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "OVERЯOID": {
+    "inputs": [
+      "OVERЯOID"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Occult": {
+    "inputs": [
+      "Occult"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Octopath_Traveler": {
+    "inputs": [
+      "Octopath_Traveler"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Oekaki_no_Mori": {
+    "inputs": [
+      "Oekaki_no_Mori"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ogu_and_the_Secret_Forest": {
+    "inputs": [
+      "Ogu_and_the_Secret_Forest"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Oink_Games": {
+    "inputs": [
+      "Oink_Games"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ojisan_to_Asobou": {
+    "inputs": [
+      "Ojisan_to_Asobou"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Okaeri": {
+    "inputs": [
+      "Okaeri"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Okami": {
+    "inputs": [
+      "Okami"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Okayu_Nyumu!": {
+    "inputs": [
+      "Okayu_Nyumu!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Okekenuki": {
+    "inputs": [
+      "Okekenuki"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Okihai": {
+    "inputs": [
+      "Okihai"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Old_Coin_Pusher_Friends": {
+    "inputs": [
+      "Old_Coin_Pusher_Friends"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Old_Man's_Journey": {
+    "inputs": [
+      "Old_Man's_Journey"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Old_Market_Simulator": {
+    "inputs": [
+      "Old_Market_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Omega_Crafter": {
+    "inputs": [
+      "Omega_Crafter"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Omega_Strikers": {
+    "inputs": [
+      "Omega_Strikers"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Omori": {
+    "inputs": [
+      "Omori"
+    ],
+    "is_game": true,
+    "tags": ["rpg", "story"]
+  },
+  "Onamae_nan_dakke?": {
+    "inputs": [
+      "Onamae_nan_dakke?"
+    ],
+    "is_game": true,
+    "tags": ["language_learning"]
+  },
+  "OneShot": {
+    "inputs": [
+      "OneShot"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "One_Hand_Clapping": {
+    "inputs": [
+      "One_Hand_Clapping"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "One_Piece_Odyssey": {
+    "inputs": [
+      "One_Piece_Odyssey"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Onigiri_Shop_Simulator": {
+    "inputs": [
+      "Onigiri_Shop_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Onimusha": {
+    "inputs": [
+      "Onimusha"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Online_Sparkler": {
+    "inputs": [
+      "Online_Sparkler"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "OnlyUp!": {
+    "inputs": [
+      "OnlyUp!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ori": {
+    "inputs": [
+      "Ori"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Original_Song": {
+    "inputs": [
+      "Original_Song"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Out_of_Sight": {
+    "inputs": [
+      "Out_of_Sight"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Outer_Wilds": {
+    "inputs": [
+      "Outer_Wilds"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Outfit_Reveal": {
+    "inputs": [
+      "Outfit_Reveal"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Overwatch": {
+    "inputs": [
+      "Overwatch"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "hero_shooter"]
+  },
+  "Owarema10": {
+    "inputs": [
+      "Owarema10"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Oxygen_Not_Included": {
+    "inputs": [
+      "Oxygen_Not_Included"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "P.I.": {
+    "inputs": [
+      "P.I."
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "PANICORE": {
+    "inputs": [
+      "PANICORE"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "PARQUET": {
+    "inputs": [
+      "PARQUET"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "PAYDAY": {
+    "inputs": [
+      "PAYDAY"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "PC_Building_Simulator": {
+    "inputs": [
+      "PC_Building_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "PEAK": {
+    "inputs": [
+      "PEAK"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "PEC-MEN": {
+    "inputs": [
+      "PEC-MEN"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "PHOGS": {
+    "inputs": [
+      "PHOGS"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "PICO_PARK": {
+    "inputs": [
+      "PICO_PARK"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "PIEN": {
+    "inputs": [
+      "PIEN"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "POOLS": {
+    "inputs": [
+      "POOLS"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "PUBG": {
+    "inputs": [
+      "PUBG"
+    ],
+    "is_game": true,
+    "tags": ["fps", "battle_royale", "multiplayer"]
+  },
+  "PaRappa_the_Rapper": {
+    "inputs": [
+      "PaRappa_the_Rapper"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pachisuro": {
+    "inputs": [
+      "Pachisuro"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pacific_Drive": {
+    "inputs": [
+      "Pacific_Drive"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pacify": {
+    "inputs": [
+      "Pacify"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Paddle_Paddle_Paddle": {
+    "inputs": [
+      "Paddle_Paddle_Paddle"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Palia": {
+    "inputs": [
+      "Palia"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Palmyra_Orphanage": {
+    "inputs": [
+      "Palmyra_Orphanage"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Palworld": {
+    "inputs": [
+      "Palworld"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pamali": {
+    "inputs": [
+      "Pamali"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Papa's_Freezeria": {
+    "inputs": [
+      "Papa's_Freezeria"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Paper_Ghost_Stories": {
+    "inputs": [
+      "Paper_Ghost_Stories"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Paper_Mario": {
+    "inputs": [
+      "Paper_Mario"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Papers_Please": {
+    "inputs": [
+      "Papers_Please"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "ParanormalHK": {
+    "inputs": [
+      "ParanormalHK"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Paranormal_Cleanup": {
+    "inputs": [
+      "Paranormal_Cleanup"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Paranormasight": {
+    "inputs": [
+      "Paranormasight"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Parasocial": {
+    "inputs": [
+      "Parasocial"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Parking_Together!": {
+    "inputs": [
+      "Parking_Together!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Part_Time_UFO": {
+    "inputs": [
+      "Part_Time_UFO"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Party_Animals": {
+    "inputs": [
+      "Party_Animals"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Party_Panic": {
+    "inputs": [
+      "Party_Panic"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Party_Party_Time": {
+    "inputs": [
+      "Party_Party_Time"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Patapon": {
+    "inputs": [
+      "Patapon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Path_of_Exile": {
+    "inputs": [
+      "Path_of_Exile"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pathologic": {
+    "inputs": [
+      "Pathologic"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Peggle": {
+    "inputs": [
+      "Peggle"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Peglin": {
+    "inputs": [
+      "Peglin"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Penguin_Helper": {
+    "inputs": [
+      "Penguin_Helper"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Penumbra": {
+    "inputs": [
+      "Penumbra"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Peppa_Pig": {
+    "inputs": [
+      "Peppa_Pig"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Persona": {
+    "inputs": [
+      "Persona"
+    ],
+    "is_game": true,
+    "tags": ["rpg", "story"]
+  },
+  "Personality_Test": {
+    "inputs": [
+      "Personality_Test"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Phantasy_Star": {
+    "inputs": [
+      "Phantasy_Star"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Phasmophobia": {
+    "inputs": [
+      "Phasmophobia"
+    ],
+    "is_game": true,
+    "tags": ["horror", "multiplayer", "cooperative"]
+  },
+  "Photogenic_Minds:_Identity": {
+    "inputs": [
+      "Photogenic_Minds:_Identity"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Photos_You_Should_Never_See": {
+    "inputs": [
+      "Photos_You_Should_Never_See"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Physical_Exorcism": {
+    "inputs": [
+      "Physical_Exorcism"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Piano5am": {
+    "inputs": [
+      "Piano5am"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Picross": {
+    "inputs": [
+      "Picross"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pikuniku": {
+    "inputs": [
+      "Pikuniku"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pineapple_on_pizza": {
+    "inputs": [
+      "Pineapple_on_pizza"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pizza_Frenzy": {
+    "inputs": [
+      "Pizza_Frenzy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pizza_Tower": {
+    "inputs": [
+      "Pizza_Tower"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Placid_Plastic_Duck_Simulator": {
+    "inputs": [
+      "Placid_Plastic_Duck_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Plamo": {
+    "inputs": [
+      "Plamo"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Planet_Coaster": {
+    "inputs": [
+      "Planet_Coaster"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Planet_Zoo": {
+    "inputs": [
+      "Planet_Zoo"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Plants_vs._Zombies": {
+    "inputs": [
+      "Plants_vs._Zombies"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "PlateUp": {
+    "inputs": [
+      "PlateUp"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Platform_8": {
+    "inputs": [
+      "Platform_8"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Plug_&_Play": {
+    "inputs": [
+      "Plug_&_Play"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pocket_Card_Jockey": {
+    "inputs": [
+      "Pocket_Card_Jockey"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pocket_Mirror": {
+    "inputs": [
+      "Pocket_Mirror"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pogostuck": {
+    "inputs": [
+      "Pogostuck"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pokemon": {
+    "inputs": [
+      "Pokemon"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Pokemon_TCG": {
+    "inputs": [
+      "Pokemon_TCG"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pokemon_Trading_Card_Game_Pocket": {
+    "inputs": [
+      "Pokemon_Trading_Card_Game_Pocket"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pokemon_Unite": {
+    "inputs": [
+      "Pokemon_Unite"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Poker_Chase": {
+    "inputs": [
+      "Poker_Chase"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Police_Simulator": {
+    "inputs": [
+      "Police_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Policenauts": {
+    "inputs": [
+      "Policenauts"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Poly_Bridge": {
+    "inputs": [
+      "Poly_Bridge"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Poop_Spotter": {
+    "inputs": [
+      "Poop_Spotter"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Poppy_Playtime": {
+    "inputs": [
+      "Poppy_Playtime"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Potionomics": {
+    "inputs": [
+      "Potionomics"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "PowerWash_Simulator": {
+    "inputs": [
+      "PowerWash_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Power_Pros": {
+    "inputs": [
+      "Power_Pros"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Prey": {
+    "inputs": [
+      "Prey"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pricolage": {
+    "inputs": [
+      "Pricolage"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Prince_of_Persia": {
+    "inputs": [
+      "Prince_of_Persia"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Princess_Connect": {
+    "inputs": [
+      "Princess_Connect"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Princess_Peach": {
+    "inputs": [
+      "Princess_Peach"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Prison_Escape_Simulator": {
+    "inputs": [
+      "Prison_Escape_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pro_Gymnast_Simulator": {
+    "inputs": [
+      "Pro_Gymnast_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Professional_Baseball_Spirits": {
+    "inputs": [
+      "Professional_Baseball_Spirits"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Professor_Layton": {
+    "inputs": [
+      "Professor_Layton"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Project:;COLD": {
+    "inputs": [
+      "Project:;COLD"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Project_Diva": {
+    "inputs": [
+      "Project_Diva"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Project_Sekai": {
+    "inputs": [
+      "Project_Sekai"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Project_Wingman": {
+    "inputs": [
+      "Project_Wingman"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Project_Zomboid": {
+    "inputs": [
+      "Project_Zomboid"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Promise_Mascot_Agency": {
+    "inputs": [
+      "Promise_Mascot_Agency"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Propnight": {
+    "inputs": [
+      "Propnight"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Protein_for_Muscle": {
+    "inputs": [
+      "Protein_for_Muscle"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pummel_Party": {
+    "inputs": [
+      "Pummel_Party"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Punch-Out!!": {
+    "inputs": [
+      "Punch-Out!!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Pushing_It!": {
+    "inputs": [
+      "Pushing_It!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Puyo_Puyo": {
+    "inputs": [
+      "Puyo_Puyo"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Puyo_Puyo_Tetris": {
+    "inputs": [
+      "Puyo_Puyo_Tetris"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Puzzle_League": {
+    "inputs": [
+      "Puzzle_League"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Puzzle_Together": {
+    "inputs": [
+      "Puzzle_Together"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "QWOP": {
+    "inputs": [
+      "QWOP"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Q_Remastered": {
+    "inputs": [
+      "Q_Remastered"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Quake": {
+    "inputs": [
+      "Quake"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive"]
+  },
+  "Quarantine_Zone": {
+    "inputs": [
+      "Quarantine_Zone"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Quest_Rooms": {
+    "inputs": [
+      "Quest_Rooms"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Quiz": {
+    "inputs": [
+      "Quiz"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "R.E.P.O.": {
+    "inputs": [
+      "R.E.P.O."
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "ROUTINE": {
+    "inputs": [
+      "ROUTINE"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "RPG_With_Too_Many_Spoilers": {
+    "inputs": [
+      "RPG_With_Too_Many_Spoilers"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "RV_There_Yet?": {
+    "inputs": [
+      "RV_There_Yet?"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rabbit_and_Steel": {
+    "inputs": [
+      "Rabbit_and_Steel"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rabi-Ribi": {
+    "inputs": [
+      "Rabi-Ribi"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Raft": {
+    "inputs": [
+      "Raft"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ragnarok_Online": {
+    "inputs": [
+      "Ragnarok_Online"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Raid:_Shadow_Legends": {
+    "inputs": [
+      "Raid:_Shadow_Legends"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rain_World": {
+    "inputs": [
+      "Rain_World"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rainbow_Six": {
+    "inputs": [
+      "Rainbow_Six"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive"]
+  },
+  "Raisond'etre": {
+    "inputs": [
+      "Raisond'etre"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ramen_Oil_Pecking_Simulator": {
+    "inputs": [
+      "Ramen_Oil_Pecking_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ranch_Simulator": {
+    "inputs": [
+      "Ranch_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ranking": {
+    "inputs": [
+      "Ranking"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rat_Simulator": {
+    "inputs": [
+      "Rat_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ratchet_&_Clank": {
+    "inputs": [
+      "Ratchet_&_Clank"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Ratopia": {
+    "inputs": [
+      "Ratopia"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Reading": {
+    "inputs": [
+      "Reading"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Red_Dead": {
+    "inputs": [
+      "Red_Dead"
+    ],
+    "is_game": true,
+    "tags": ["open_world"]
+  },
+  "Refind_Self": {
+    "inputs": [
+      "Refind_Self"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Reigns": {
+    "inputs": [
+      "Reigns"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Relationship_chart": {
+    "inputs": [
+      "Relationship_chart"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rental": {
+    "inputs": [
+      "Rental"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Return_of_the_Obra_Dinn": {
+    "inputs": [
+      "Return_of_the_Obra_Dinn"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Revengeful_Ghost": {
+    "inputs": [
+      "Revengeful_Ghost"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Re≒Connect_Exit_LOOP": {
+    "inputs": [
+      "Re≒Connect_Exit_LOOP"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rhythm_Doctor": {
+    "inputs": [
+      "Rhythm_Doctor"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rhythm_Heaven": {
+    "inputs": [
+      "Rhythm_Heaven"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ride": {
+    "inputs": [
+      "Ride"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "RimWorld": {
+    "inputs": [
+      "RimWorld"
+    ],
+    "is_game": true,
+    "tags": ["simulator", "crafting"]
+  },
+  "River_City": {
+    "inputs": [
+      "River_City"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Roblox": {
+    "inputs": [
+      "Roblox"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rock_Simulator": {
+    "inputs": [
+      "Rock_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rocket_League": {
+    "inputs": [
+      "Rocket_League"
+    ],
+    "is_game": true,
+    "tags": ["sports", "multiplayer", "competitive"]
+  },
+  "Roleplay": {
+    "inputs": [
+      "Roleplay"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Romancing_SaGa": {
+    "inputs": [
+      "Romancing_SaGa"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Roommania": {
+    "inputs": [
+      "Roommania"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rose_and_Camellia": {
+    "inputs": [
+      "Rose_and_Camellia"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rukimin": {
+    "inputs": [
+      "Rukimin"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Run_Pizza_Run": {
+    "inputs": [
+      "Run_Pizza_Run"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rune_Factory": {
+    "inputs": [
+      "Rune_Factory"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Runescape": {
+    "inputs": [
+      "Runescape"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rust": {
+    "inputs": [
+      "Rust"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Rusty_Lake": {
+    "inputs": [
+      "Rusty_Lake"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "S.T.A.L.K.E.R.": {
+    "inputs": [
+      "S.T.A.L.K.E.R."
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SAEKO:_Giantess_Dating_Sim": {
+    "inputs": [
+      "SAEKO:_Giantess_Dating_Sim"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SANABI": {
+    "inputs": [
+      "SANABI"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SIGNALIS": {
+    "inputs": [
+      "SIGNALIS"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SOMA": {
+    "inputs": [
+      "SOMA"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SUIKAWA_LEAD": {
+    "inputs": [
+      "SUIKAWA_LEAD"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SUPERHOT": {
+    "inputs": [
+      "SUPERHOT"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SUSHI_Shot": {
+    "inputs": [
+      "SUSHI_Shot"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SYNDUALITY_Echo_of_Ada": {
+    "inputs": [
+      "SYNDUALITY_Echo_of_Ada"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SaGa": {
+    "inputs": [
+      "SaGa"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SaGa_Frontier": {
+    "inputs": [
+      "SaGa_Frontier"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Saihate_Station": {
+    "inputs": [
+      "Saihate_Station"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sakura_Wars": {
+    "inputs": [
+      "Sakura_Wars"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sandtrix": {
+    "inputs": [
+      "Sandtrix"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Satisfactory": {
+    "inputs": [
+      "Satisfactory"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Satogaeri": {
+    "inputs": [
+      "Satogaeri"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sausage_Legend": {
+    "inputs": [
+      "Sausage_Legend"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Scarlet_Nexus": {
+    "inputs": [
+      "Scarlet_Nexus"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "School_Labyrinth": {
+    "inputs": [
+      "School_Labyrinth"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "School_Textbook_Test": {
+    "inputs": [
+      "School_Textbook_Test"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Score_the_Fear": {
+    "inputs": [
+      "Score_the_Fear"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sea_of_Thieves": {
+    "inputs": [
+      "Sea_of_Thieves"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "cooperative", "open_world"]
+  },
+  "Self-Introduction": {
+    "inputs": [
+      "Self-Introduction"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Selling_Souls": {
+    "inputs": [
+      "Selling_Souls"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sengoku_BASARA": {
+    "inputs": [
+      "Sengoku_BASARA"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sengoku_Dynasty": {
+    "inputs": [
+      "Sengoku_Dynasty"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sentimental_Death_Loop": {
+    "inputs": [
+      "Sentimental_Death_Loop"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Serious_Sam": {
+    "inputs": [
+      "Serious_Sam"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Settlement_Survival": {
+    "inputs": [
+      "Settlement_Survival"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Seven_Nights_Ghost": {
+    "inputs": [
+      "Seven_Nights_Ghost"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shadow_of_the_Colossus": {
+    "inputs": [
+      "Shadow_of_the_Colossus"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shadows_of_Doubt": {
+    "inputs": [
+      "Shadows_of_Doubt"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shadowverse": {
+    "inputs": [
+      "Shadowverse"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shady_Part_of_Me": {
+    "inputs": [
+      "Shady_Part_of_Me"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shark_and_Minnows": {
+    "inputs": [
+      "Shark_and_Minnows"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shashingo": {
+    "inputs": [
+      "Shashingo"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shenmue": {
+    "inputs": [
+      "Shenmue"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sherlock_Holmes": {
+    "inputs": [
+      "Sherlock_Holmes"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shine_Post": {
+    "inputs": [
+      "Shine_Post"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shinkansen_0": {
+    "inputs": [
+      "Shinkansen_0"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ship,_Inc.": {
+    "inputs": [
+      "Ship,_Inc."
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shiren_the_Wanderer": {
+    "inputs": [
+      "Shiren_the_Wanderer"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shobon_no_Action": {
+    "inputs": [
+      "Shobon_no_Action"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shopping": {
+    "inputs": [
+      "Shopping"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shotgun_King": {
+    "inputs": [
+      "Shotgun_King"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Shovel_Knight": {
+    "inputs": [
+      "Shovel_Knight"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Silent_Cleaning": {
+    "inputs": [
+      "Silent_Cleaning"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Silent_Hill": {
+    "inputs": [
+      "Silent_Hill"
+    ],
+    "is_game": true,
+    "tags": ["horror"]
+  },
+  "Siren": {
+    "inputs": [
+      "Siren"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Situation_puzzle": {
+    "inputs": [
+      "Situation_puzzle"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Skullgirls": {
+    "inputs": [
+      "Skullgirls"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sky:_Children_of_the_Light": {
+    "inputs": [
+      "Sky:_Children_of_the_Light"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Slackers:_Carts_of_Glory": {
+    "inputs": [
+      "Slackers:_Carts_of_Glory"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Slay_the_Princess": {
+    "inputs": [
+      "Slay_the_Princess"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Slay_the_Spire": {
+    "inputs": [
+      "Slay_the_Spire"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Slice_&_Dice": {
+    "inputs": [
+      "Slice_&_Dice"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Slime_Rancher": {
+    "inputs": [
+      "Slime_Rancher"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Slither.io": {
+    "inputs": [
+      "Slither.io"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Smalland": {
+    "inputs": [
+      "Smalland"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Smash_or_Pass": {
+    "inputs": [
+      "Smash_or_Pass"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Smol_Ame": {
+    "inputs": [
+      "Smol_Ame"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Snipperclips": {
+    "inputs": [
+      "Snipperclips"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Snufkin": {
+    "inputs": [
+      "Snufkin"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Solo_Leveling:_Arise": {
+    "inputs": [
+      "Solo_Leveling:_Arise"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Song_of_Horror": {
+    "inputs": [
+      "Song_of_Horror"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sonic": {
+    "inputs": [
+      "Sonic"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Sou-kai-shin": {
+    "inputs": [
+      "Sou-kai-shin"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Soulcalibur": {
+    "inputs": [
+      "Soulcalibur"
+    ],
+    "is_game": true,
+    "tags": ["fighting", "multiplayer", "competitive"]
+  },
+  "South_Park": {
+    "inputs": [
+      "South_Park"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Space_Channel_5": {
+    "inputs": [
+      "Space_Channel_5"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Spellbreak": {
+    "inputs": [
+      "Spellbreak"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Spelunky": {
+    "inputs": [
+      "Spelunky"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Spider-Man": {
+    "inputs": [
+      "Spider-Man"
+    ],
+    "is_game": true,
+    "tags": ["open_world"]
+  },
+  "Spilled!": {
+    "inputs": [
+      "Spilled!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Spirit_Hunter": {
+    "inputs": [
+      "Spirit_Hunter"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Spiritfarer": {
+    "inputs": [
+      "Spiritfarer"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Splatoon": {
+    "inputs": [
+      "Splatoon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Splatterhouse": {
+    "inputs": [
+      "Splatterhouse"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Split_Fiction": {
+    "inputs": [
+      "Split_Fiction"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SpongeBob": {
+    "inputs": [
+      "SpongeBob"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Spooky's_Jump_Scare_Mansion": {
+    "inputs": [
+      "Spooky's_Jump_Scare_Mansion"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Spore": {
+    "inputs": [
+      "Spore"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SpyParty": {
+    "inputs": [
+      "SpyParty"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Spyro": {
+    "inputs": [
+      "Spyro"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Squirrel_with_a_Gun": {
+    "inputs": [
+      "Squirrel_with_a_Gun"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Squirreled_Away": {
+    "inputs": [
+      "Squirreled_Away"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "StarCraft": {
+    "inputs": [
+      "StarCraft"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "StarSavior": {
+    "inputs": [
+      "StarSavior"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Star_Fox": {
+    "inputs": [
+      "Star_Fox"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Star_Ocean": {
+    "inputs": [
+      "Star_Ocean"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Star_Wars": {
+    "inputs": [
+      "Star_Wars"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Stardew_Valley": {
+    "inputs": [
+      "Stardew_Valley"
+    ],
+    "is_game": true,
+    "tags": ["simulator"]
+  },
+  "Starfield": {
+    "inputs": [
+      "Starfield"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Starfy": {
+    "inputs": [
+      "Starfy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Stellar_Blade": {
+    "inputs": [
+      "Stellar_Blade"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Stick_Fight:_The_Game": {
+    "inputs": [
+      "Stick_Fight:_The_Game"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Stigmatized_Property": {
+    "inputs": [
+      "Stigmatized_Property"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Still_It_Runs": {
+    "inputs": [
+      "Still_It_Runs"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Stilt_Fella": {
+    "inputs": [
+      "Stilt_Fella"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Stories_Untold": {
+    "inputs": [
+      "Stories_Untold"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Stormlander": {
+    "inputs": [
+      "Stormlander"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Story_of_Seasons": {
+    "inputs": [
+      "Story_of_Seasons"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Storyteller": {
+    "inputs": [
+      "Storyteller"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Strange_Horticulture": {
+    "inputs": [
+      "Strange_Horticulture"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Stranger_Watch": {
+    "inputs": [
+      "Stranger_Watch"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Stray": {
+    "inputs": [
+      "Stray"
+    ],
+    "is_game": true,
+    "tags": ["platformer", "story"]
+  },
+  "Street_Fighter": {
+    "inputs": [
+      "Street_Fighter"
+    ],
+    "is_game": true,
+    "tags": ["fighting", "multiplayer", "competitive"]
+  },
+  "Strinova": {
+    "inputs": [
+      "Strinova"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Subnautica": {
+    "inputs": [
+      "Subnautica"
+    ],
+    "is_game": true,
+    "tags": ["crafting", "open_world"]
+  },
+  "SuchArt": {
+    "inputs": [
+      "SuchArt"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sucker_for_Love": {
+    "inputs": [
+      "Sucker_for_Love"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sudocats": {
+    "inputs": [
+      "Sudocats"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Suite_776": {
+    "inputs": [
+      "Suite_776"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "SuperSorry": {
+    "inputs": [
+      "SuperSorry"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Super_Animal_Royale": {
+    "inputs": [
+      "Super_Animal_Royale"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Super_Auto_Pets": {
+    "inputs": [
+      "Super_Auto_Pets"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Super_Bunny_Man": {
+    "inputs": [
+      "Super_Bunny_Man"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Super_Mario": {
+    "inputs": [
+      "Super_Mario"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Super_Monkey_Ball": {
+    "inputs": [
+      "Super_Monkey_Ball"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Super_Seducer": {
+    "inputs": [
+      "Super_Seducer"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Superchat_Reading": {
+    "inputs": [
+      "Superchat_Reading"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Supermarket_Together": {
+    "inputs": [
+      "Supermarket_Together"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Supernormal": {
+    "inputs": [
+      "Supernormal"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Survival_Quiz_CITY": {
+    "inputs": [
+      "Survival_Quiz_CITY"
+    ],
+    "is_game": true,
+    "tags": ["language_learning", "education"]
+  },
+  "Suspicious_Person_Information": {
+    "inputs": [
+      "Suspicious_Person_Information"
+    ],
+    "is_game": true,
+    "tags": ["mystery"]
+  },
+  "Sword_Art_Online": {
+    "inputs": [
+      "Sword_Art_Online"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Sword_of_Justice": {
+    "inputs": [
+      "Sword_of_Justice"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "TCG_Card_Shop_Simulator": {
+    "inputs": [
+      "TCG_Card_Shop_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "TERAVIT": {
+    "inputs": [
+      "TERAVIT"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "THREAT:_SCREAM_AND_ESCAPE": {
+    "inputs": [
+      "THREAT:_SCREAM_AND_ESCAPE"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "TOEM": {
+    "inputs": [
+      "TOEM"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "TORIDAMA": {
+    "inputs": [
+      "TORIDAMA"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "TRAIN_CREW": {
+    "inputs": [
+      "TRAIN_CREW"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "TRPG": {
+    "inputs": [
+      "TRPG"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Taiko_no_tatsujin": {
+    "inputs": [
+      "Taiko_no_tatsujin"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Takoyaki_Party_Survival": {
+    "inputs": [
+      "Takoyaki_Party_Survival"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tales_of": {
+    "inputs": [
+      "Tales_of"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Tamagotchi": {
+    "inputs": [
+      "Tamagotchi"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tangle_Tower": {
+    "inputs": [
+      "Tangle_Tower"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tarkov": {
+    "inputs": [
+      "Tarkov"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tavern_Manager_Simulator": {
+    "inputs": [
+      "Tavern_Manager_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tavern_Master": {
+    "inputs": [
+      "Tavern_Master"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Team_Fortress": {
+    "inputs": [
+      "Team_Fortress"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer"]
+  },
+  "Teamfight_Tactics": {
+    "inputs": [
+      "Teamfight_Tactics"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Teardown": {
+    "inputs": [
+      "Teardown"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Teaser": {
+    "inputs": [
+      "Teaser"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tekken": {
+    "inputs": [
+      "Tekken"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Terra_Nil": {
+    "inputs": [
+      "Terra_Nil"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Terraria": {
+    "inputs": [
+      "Terraria"
+    ],
+    "is_game": true,
+    "tags": ["crafting", "open_world", "cooperative"]
+  },
+  "Tetris": {
+    "inputs": [
+      "Tetris"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Thank_Goodness_You're_Here!": {
+    "inputs": [
+      "Thank_Goodness_You're_Here!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "That's_Not_My_Neighbor": {
+    "inputs": [
+      "That's_Not_My_Neighbor"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Alters": {
+    "inputs": [
+      "The_Alters"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Aquarium_does_not_dance": {
+    "inputs": [
+      "The_Aquarium_does_not_dance"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Backrooms": {
+    "inputs": [
+      "The_Backrooms"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Bathhouse": {
+    "inputs": [
+      "The_Bathhouse"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Battle_Cats": {
+    "inputs": [
+      "The_Battle_Cats"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Big_Adventure_of_Owata's_Life": {
+    "inputs": [
+      "The_Big_Adventure_of_Owata's_Life"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Boba_Teashop": {
+    "inputs": [
+      "The_Boba_Teashop"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Bridge_Curse": {
+    "inputs": [
+      "The_Bridge_Curse"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Cabin_Factory": {
+    "inputs": [
+      "The_Cabin_Factory"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Callisto_Protocol": {
+    "inputs": [
+      "The_Callisto_Protocol"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Caregiver": {
+    "inputs": [
+      "The_Caregiver"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Cat_Lady": {
+    "inputs": [
+      "The_Cat_Lady"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Classrooms": {
+    "inputs": [
+      "The_Classrooms"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Closing_Shift": {
+    "inputs": [
+      "The_Closing_Shift"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Cycle_Frontier": {
+    "inputs": [
+      "The_Cycle_Frontier"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Dark_Pictures_Anthology": {
+    "inputs": [
+      "The_Dark_Pictures_Anthology"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Division": {
+    "inputs": [
+      "The_Division"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "cooperative", "open_world"]
+  },
+  "The_Eminence_in_Shadow:_Master_of_Garden": {
+    "inputs": [
+      "The_Eminence_in_Shadow:_Master_of_Garden"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Entropy_Centre": {
+    "inputs": [
+      "The_Entropy_Centre"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Evil_Within": {
+    "inputs": [
+      "The_Evil_Within"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Exit_8": {
+    "inputs": [
+      "The_Exit_8"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_First_Berserker": {
+    "inputs": [
+      "The_First_Berserker"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Forest": {
+    "inputs": [
+      "The_Forest"
+    ],
+    "is_game": true,
+    "tags": ["crafting", "open_world", "cooperative"]
+  },
+  "The_Forest_of_Drizzling_Rain": {
+    "inputs": [
+      "The_Forest_of_Drizzling_Rain"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Game_Created_by_the_Vanished_Friend": {
+    "inputs": [
+      "The_Game_Created_by_the_Vanished_Friend"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Game_of_Life": {
+    "inputs": [
+      "The_Game_of_Life"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Game_of_Sisyphus": {
+    "inputs": [
+      "The_Game_of_Sisyphus"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Ghost_Train": {
+    "inputs": [
+      "The_Ghost_Train"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Headliners": {
+    "inputs": [
+      "The_Headliners"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_House_in_Fata_Morgana": {
+    "inputs": [
+      "The_House_in_Fata_Morgana"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Jusou": {
+    "inputs": [
+      "The_Jusou"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Karaoke": {
+    "inputs": [
+      "The_Karaoke"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Kidnap": {
+    "inputs": [
+      "The_Kidnap"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Kids_We_Were": {
+    "inputs": [
+      "The_Kids_We_Were"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_King_of_Fighters": {
+    "inputs": [
+      "The_King_of_Fighters"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Last_Campfire": {
+    "inputs": [
+      "The_Last_Campfire"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Last_Guardian": {
+    "inputs": [
+      "The_Last_Guardian"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Last_of_Us": {
+    "inputs": [
+      "The_Last_of_Us"
+    ],
+    "is_game": true,
+    "tags": ["horror", "story"]
+  },
+  "The_Long_Dark": {
+    "inputs": [
+      "The_Long_Dark"
+    ],
+    "is_game": true,
+    "tags": ["survival"]
+  },
+  "The_Manga_Works": {
+    "inputs": [
+      "The_Manga_Works"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Night_Way_Home": {
+    "inputs": [
+      "The_Night_Way_Home"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Pedestrian": {
+    "inputs": [
+      "The_Pedestrian"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Planet_Crafter": {
+    "inputs": [
+      "The_Planet_Crafter"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Plucky_Squire": {
+    "inputs": [
+      "The_Plucky_Squire"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Quarry": {
+    "inputs": [
+      "The_Quarry"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Radio_Station": {
+    "inputs": [
+      "The_Radio_Station"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Ramen_Sensei": {
+    "inputs": [
+      "The_Ramen_Sensei"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Stairway_7": {
+    "inputs": [
+      "The_Stairway_7"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Stanley_Parable": {
+    "inputs": [
+      "The_Stanley_Parable"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Star_Named_EOS": {
+    "inputs": [
+      "The_Star_Named_EOS"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Strongest_TOFU": {
+    "inputs": [
+      "The_Strongest_TOFU"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Survivalists": {
+    "inputs": [
+      "The_Survivalists"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Sushi_Spinnery": {
+    "inputs": [
+      "The_Sushi_Spinnery"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Typing_of_the_Dead": {
+    "inputs": [
+      "The_Typing_of_the_Dead"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Walking_Dead": {
+    "inputs": [
+      "The_Walking_Dead"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Watchers": {
+    "inputs": [
+      "The_Watchers"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "The_Witch's_House": {
+    "inputs": [
+      "The_Witch's_House"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "There_Is_No_Game": {
+    "inputs": [
+      "There_Is_No_Game"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Thief_Simulator": {
+    "inputs": [
+      "Thief_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Those_Games": {
+    "inputs": [
+      "Those_Games"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Thought_Experiment_Simulator": {
+    "inputs": [
+      "Thought_Experiment_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Thymesia": {
+    "inputs": [
+      "Thymesia"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tick_Tock:_A_Tale_for_Two": {
+    "inputs": [
+      "Tick_Tock:_A_Tale_for_Two"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Timberborn": {
+    "inputs": [
+      "Timberborn"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Timelie": {
+    "inputs": [
+      "Timelie"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Titanfall": {
+    "inputs": [
+      "Titanfall"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer"]
+  },
+  "ToHeart": {
+    "inputs": [
+      "ToHeart"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "To_the_Moon": {
+    "inputs": [
+      "To_the_Moon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tokimeki_Memorial": {
+    "inputs": [
+      "Tokimeki_Memorial"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tokyo_Xtreme_Racer": {
+    "inputs": [
+      "Tokyo_Xtreme_Racer"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tom_Clancy's_Ghost_Recon": {
+    "inputs": [
+      "Tom_Clancy's_Ghost_Recon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tony_Hawk's": {
+    "inputs": [
+      "Tony_Hawk's"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Total_War": {
+    "inputs": [
+      "Total_War"
+    ],
+    "is_game": true,
+    "tags": ["strategy", "multiplayer"]
+  },
+  "Totally_Accurate_Battle_Simulator": {
+    "inputs": [
+      "Totally_Accurate_Battle_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tower_Unite": {
+    "inputs": [
+      "Tower_Unite"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tower_of_Fantasy": {
+    "inputs": [
+      "Tower_of_Fantasy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Townscaper": {
+    "inputs": [
+      "Townscaper"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Toy_Shop_Simulator": {
+    "inputs": [
+      "Toy_Shop_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Trap_Trek:_Ultimate_Other_Me": {
+    "inputs": [
+      "Trap_Trek:_Ultimate_Other_Me"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Trials_of_Mana": {
+    "inputs": [
+      "Trials_of_Mana"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Triangle_Strategy": {
+    "inputs": [
+      "Triangle_Strategy"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tribe_Nine": {
+    "inputs": [
+      "Tribe_Nine"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "TrickShot_Simulator": {
+    "inputs": [
+      "TrickShot_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tricky_Towers": {
+    "inputs": [
+      "Tricky_Towers"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Trine": {
+    "inputs": [
+      "Trine"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Trolley_Problem": {
+    "inputs": [
+      "Trolley_Problem"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Trombone_Champ": {
+    "inputs": [
+      "Trombone_Champ"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tropico": {
+    "inputs": [
+      "Tropico"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "TroubleDays": {
+    "inputs": [
+      "TroubleDays"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Troublemaker": {
+    "inputs": [
+      "Troublemaker"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Truck_Simulator": {
+    "inputs": [
+      "Truck_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tsukihime": {
+    "inputs": [
+      "Tsukihime"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Tunic": {
+    "inputs": [
+      "Tunic"
+    ],
+    "is_game": true,
+    "tags": ["souls_like"]
+  },
+  "Twelve_Minutes": {
+    "inputs": [
+      "Twelve_Minutes"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Twisted_Wonderland": {
+    "inputs": [
+      "Twisted_Wonderland"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Two_Point": {
+    "inputs": [
+      "Two_Point"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "ULTRAKILL": {
+    "inputs": [
+      "ULTRAKILL"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "UMIGARI": {
+    "inputs": [
+      "UMIGARI"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "UNDERWARD": {
+    "inputs": [
+      "UNDERWARD"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "UNREAL_LIFE": {
+    "inputs": [
+      "UNREAL_LIFE"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Ultimate_Chicken_Horse": {
+    "inputs": [
+      "Ultimate_Chicken_Horse"
+    ],
+    "is_game": true,
+    "tags": ["party_game", "multiplayer"]
+  },
+  "Ultimate_Fishing_Simulator": {
+    "inputs": [
+      "Ultimate_Fishing_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Uncharted": {
+    "inputs": [
+      "Uncharted"
+    ],
+    "is_game": true,
+    "tags": ["fps", "story"]
+  },
+  "Under_Night_In-Birth": {
+    "inputs": [
+      "Under_Night_In-Birth"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Undying": {
+    "inputs": [
+      "Undying"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Unicorn_Overlord": {
+    "inputs": [
+      "Unicorn_Overlord"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Unicycle_Pizza_Time": {
+    "inputs": [
+      "Unicycle_Pizza_Time"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Universe_Sandbox": {
+    "inputs": [
+      "Universe_Sandbox"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Unknown_Pyramid": {
+    "inputs": [
+      "Unknown_Pyramid"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Unpacking": {
+    "inputs": [
+      "Unpacking"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Unrailed": {
+    "inputs": [
+      "Unrailed"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Unravel_Two": {
+    "inputs": [
+      "Unravel_Two"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Urayama": {
+    "inputs": [
+      "Urayama"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Urban_Myth_Dissolution_Center": {
+    "inputs": [
+      "Urban_Myth_Dissolution_Center"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Utawarerumono": {
+    "inputs": [
+      "Utawarerumono"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Utsurundesu": {
+    "inputs": [
+      "Utsurundesu"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "VA-11_Hall-A": {
+    "inputs": [
+      "VA-11_Hall-A"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "VRChat": {
+    "inputs": [
+      "VRChat"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "social"]
+  },
+  "V_Rising": {
+    "inputs": [
+      "V_Rising"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Valheim": {
+    "inputs": [
+      "Valheim"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Valkyrie_Connect": {
+    "inputs": [
+      "Valkyrie_Connect"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Vampire:_The_Masquerade_-_Bloodlines": {
+    "inputs": [
+      "Vampire:_The_Masquerade_-_Bloodlines"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Vampire_Survivors": {
+    "inputs": [
+      "Vampire_Survivors"
+    ],
+    "is_game": true,
+    "tags": ["rpg"]
+  },
+  "Vaudeville": {
+    "inputs": [
+      "Vaudeville"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Viewfinder": {
+    "inputs": [
+      "Viewfinder"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Visage": {
+    "inputs": [
+      "Visage"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Viscera_Cleanup_Detail": {
+    "inputs": [
+      "Viscera_Cleanup_Detail"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Voice_Mimicry_Show": {
+    "inputs": [
+      "Voice_Mimicry_Show"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Voice_of_Cards": {
+    "inputs": [
+      "Voice_of_Cards"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Volcano_Princess": {
+    "inputs": [
+      "Volcano_Princess"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "WHITE_ALBUM": {
+    "inputs": [
+      "WHITE_ALBUM"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "WORLD_OF_HORROR": {
+    "inputs": [
+      "WORLD_OF_HORROR"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "WOWOWOW_KORONE_BOX": {
+    "inputs": [
+      "WOWOWOW_KORONE_BOX"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "WWE_2K": {
+    "inputs": [
+      "WWE_2K"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Wagan_Land": {
+    "inputs": [
+      "Wagan_Land"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Warcraft": {
+    "inputs": [
+      "Warcraft"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Warframe": {
+    "inputs": [
+      "Warframe"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "cooperative"]
+  },
+  "Warhammer": {
+    "inputs": [
+      "Warhammer"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Wario": {
+    "inputs": [
+      "Wario"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Warlander": {
+    "inputs": [
+      "Warlander"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Watch_Dogs": {
+    "inputs": [
+      "Watch_Dogs"
+    ],
+    "is_game": true,
+    "tags": ["open_world"]
+  },
+  "Watermelon_Game": {
+    "inputs": [
+      "Watermelon_Game"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Waterpark_Simulator": {
+    "inputs": [
+      "Waterpark_Simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "We_Were_Here": {
+    "inputs": [
+      "We_Were_Here"
+    ],
+    "is_game": true,
+    "tags": ["puzzle", "cooperative"]
+  },
+  "Weather_Typing": {
+    "inputs": [
+      "Weather_Typing"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Weiß_Schwarz": {
+    "inputs": [
+      "Weiß_Schwarz"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "What_Remains_of_Edith_Finch": {
+    "inputs": [
+      "What_Remains_of_Edith_Finch"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "What_the_Golf": {
+    "inputs": [
+      "What_the_Golf"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "When_They_Cry": {
+    "inputs": [
+      "When_They_Cry"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "When_the_Past_was_Around": {
+    "inputs": [
+      "When_the_Past_was_Around"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Whisper_Mountain_Outbreak": {
+    "inputs": [
+      "Whisper_Mountain_Outbreak"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Whisper_of_the_House": {
+    "inputs": [
+      "Whisper_of_the_House"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "White_Cat_Project": {
+    "inputs": [
+      "White_Cat_Project"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "White_Day:_A_Labyrinth_Named_School": {
+    "inputs": [
+      "White_Day:_A_Labyrinth_Named_School"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Who's_Who": {
+    "inputs": [
+      "Who's_Who"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Who's_Your_Daddy?": {
+    "inputs": [
+      "Who's_Your_Daddy?"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Who's_at_the_door?": {
+    "inputs": [
+      "Who's_at_the_door?"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Wii_Fit": {
+    "inputs": [
+      "Wii_Fit"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Wii_Play": {
+    "inputs": [
+      "Wii_Play"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Wii_Sports": {
+    "inputs": [
+      "Wii_Sports"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Wild_Hearts": {
+    "inputs": [
+      "Wild_Hearts"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Will_You_Press_The_Button?": {
+    "inputs": [
+      "Will_You_Press_The_Button?"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Winning_Post": {
+    "inputs": [
+      "Winning_Post"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Witch_It": {
+    "inputs": [
+      "Witch_It"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Witch_Spring": {
+    "inputs": [
+      "Witch_Spring"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Withering_Rooms": {
+    "inputs": [
+      "Withering_Rooms"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Within_Skerry": {
+    "inputs": [
+      "Within_Skerry"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Wizardry": {
+    "inputs": [
+      "Wizardry"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Wobbledogs": {
+    "inputs": [
+      "Wobbledogs"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Wobbly_Life": {
+    "inputs": [
+      "Wobbly_Life"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "WolfQuest": {
+    "inputs": [
+      "WolfQuest"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "WordWolf": {
+    "inputs": [
+      "WordWolf"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Words_on_Stream": {
+    "inputs": [
+      "Words_on_Stream"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "World_of_Tanks": {
+    "inputs": [
+      "World_of_Tanks"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "World_of_Warships": {
+    "inputs": [
+      "World_of_Warships"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Worms": {
+    "inputs": [
+      "Worms"
+    ],
+    "is_game": true,
+    "tags": ["strategy", "multiplayer"]
+  },
+  "Wuchang": {
+    "inputs": [
+      "Wuchang"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Wuthering_Waves": {
+    "inputs": [
+      "Wuthering_Waves"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "XDefiant": {
+    "inputs": [
+      "XDefiant"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Xenoblade": {
+    "inputs": [
+      "Xenoblade"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "YASO": {
+    "inputs": [
+      "YASO"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Yakiniku_Simulation": {
+    "inputs": [
+      "Yakiniku_Simulation"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Yakuza": {
+    "inputs": [
+      "Yakuza"
+    ],
+    "is_game": true,
+    "tags": ["open_world", "story"]
+  },
+  "Yarudora": {
+    "inputs": [
+      "Yarudora"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Yo-kai_Watch": {
+    "inputs": [
+      "Yo-kai_Watch"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Yoshi": {
+    "inputs": [
+      "Yoshi"
+    ],
+    "is_game": true,
+    "tags": ["platformer"]
+  },
+  "Your_Turn_To_Die": {
+    "inputs": [
+      "Your_Turn_To_Die"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Youtubers_Life": {
+    "inputs": [
+      "Youtubers_Life"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Yu-Gi-Oh!": {
+    "inputs": [
+      "Yu-Gi-Oh!"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Yu-kai_Elevator": {
+    "inputs": [
+      "Yu-kai_Elevator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Yuki_Onna": {
+    "inputs": [
+      "Yuki_Onna"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Yume_Nikki": {
+    "inputs": [
+      "Yume_Nikki"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Zako_no_Ahiru": {
+    "inputs": [
+      "Zako_no_Ahiru"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "Zenkoku_Ippanjin_Joushiki_Chekku": {
+    "inputs": [
+      "Zenkoku_Ippanjin_Joushiki_Chekku"
+    ],
+    "is_game": true,
+    "tags": ["language_learning", "education"]
+  },
+  "Zero_Escape": {
+    "inputs": [
+      "Zero_Escape"
+    ],
+    "is_game": true,
+    "tags": ["story", "mystery_deduction"]
+  },
+  "Zuma": {
+    "inputs": [
+      "Zuma"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "a_pet_shop_after_dark": {
+    "inputs": [
+      "a_pet_shop_after_dark"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "akinator": {
+    "inputs": [
+      "akinator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "among_us": {
+    "inputs": [
+      "among_us"
+    ],
+    "is_game": true,
+    "tags": ["multiplayer", "party_game"]
+  },
+  "ao_oni": {
+    "inputs": [
+      "ao_oni"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "apex": {
+    "inputs": [
+      "apex"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive", "battle_royale"]
+  },
+  "ark": {
+    "inputs": [
+      "ark"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "arknights": {
+    "inputs": [
+      "arknights"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "badoperability": {
+    "inputs": [
+      "badoperability"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "battlefield": {
+    "inputs": [
+      "battlefield"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive"]
+  },
+  "beat_saber": {
+    "inputs": [
+      "beat_saber"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "clubhouse51": {
+    "inputs": [
+      "clubhouse51"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "craftopia": {
+    "inputs": [
+      "craftopia"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "dbd": {
+    "inputs": [
+      "dbd"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "ddlc": {
+    "inputs": [
+      "ddlc"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "doom": {
+    "inputs": [
+      "doom"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "egg_is_broken_heart_is_too": {
+    "inputs": [
+      "egg_is_broken_heart_is_too"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "english_only": {
+    "inputs": [
+      "english_only"
+    ],
+    "is_game": true,
+    "tags": ["language_learning"]
+  },
+  "fallguys": {
+    "inputs": [
+      "fallguys"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "fnaf": {
+    "inputs": [
+      "fnaf"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "genshin": {
+    "inputs": [
+      "genshin"
+    ],
+    "is_game": true,
+    "tags": ["rpg", "open_world"]
+  },
+  "getting_over_it": {
+    "inputs": [
+      "getting_over_it"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "hanako-san": {
+    "inputs": [
+      "hanako-san"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "hatoful_boyfriend": {
+    "inputs": [
+      "hatoful_boyfriend"
+    ],
+    "is_game": true,
+    "tags": ["story"]
+  },
+  "holo8": {
+    "inputs": [
+      "holo8"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "hololiveERROR": {
+    "inputs": [
+      "hololiveERROR"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "hololive_GoroGoro_Mountain": {
+    "inputs": [
+      "hololive_GoroGoro_Mountain"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "htoL#NiQ": {
+    "inputs": [
+      "htoL#NiQ"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "human_fall_flat": {
+    "inputs": [
+      "human_fall_flat"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "ibb_&_obb": {
+    "inputs": [
+      "ibb_&_obb"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "idolmaster": {
+    "inputs": [
+      "idolmaster"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "imomushi": {
+    "inputs": [
+      "imomushi"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "inZOI": {
+    "inputs": [
+      "inZOI"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "jikobukkenkanteishi": {
+    "inputs": [
+      "jikobukkenkanteishi"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "judge_donut_hole": {
+    "inputs": [
+      "judge_donut_hole"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "keep_talking_and_nobody_explodes": {
+    "inputs": [
+      "keep_talking_and_nobody_explodes"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "little_nightmares": {
+    "inputs": [
+      "little_nightmares"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "m_HOLD'EM": {
+    "inputs": [
+      "m_HOLD'EM"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "membership": {
+    "inputs": [
+      "membership"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "minecraft": {
+    "inputs": [
+      "minecraft"
+    ],
+    "is_game": true,
+    "tags": ["crafting", "open_world", "cooperative"]
+  },
+  "momotaro_dentetsu": {
+    "inputs": [
+      "momotaro_dentetsu"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "monhun": {
+    "inputs": [
+      "monhun"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "moon": {
+    "inputs": [
+      "moon"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "nier": {
+    "inputs": [
+      "nier"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "onryo": {
+    "inputs": [
+      "onryo"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "operation_tango": {
+    "inputs": [
+      "operation_tango"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "outlast": {
+    "inputs": [
+      "outlast"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "overcooked": {
+    "inputs": [
+      "overcooked"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "passpartout": {
+    "inputs": [
+      "passpartout"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "penguins_dogma": {
+    "inputs": [
+      "penguins_dogma"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "pikmin": {
+    "inputs": [
+      "pikmin"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "portal": {
+    "inputs": [
+      "portal"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "potion_craft": {
+    "inputs": [
+      "potion_craft"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "project_winter": {
+    "inputs": [
+      "project_winter"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "residentevil": {
+    "inputs": [
+      "residentevil"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "ringfit": {
+    "inputs": [
+      "ringfit"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "sakuna": {
+    "inputs": [
+      "sakuna"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "sekiro": {
+    "inputs": [
+      "sekiro"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "shadow_corridor": {
+    "inputs": [
+      "shadow_corridor"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "skribbl.io": {
+    "inputs": [
+      "skribbl.io"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "smash": {
+    "inputs": [
+      "smash"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "superliminal": {
+    "inputs": [
+      "superliminal"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "supertype": {
+    "inputs": [
+      "supertype"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "surgeon_simulator": {
+    "inputs": [
+      "surgeon_simulator"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "theHunter": {
+    "inputs": [
+      "theHunter"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "the_sims": {
+    "inputs": [
+      "the_sims"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "touhou": {
+    "inputs": [
+      "touhou"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "tsugunohi": {
+    "inputs": [
+      "tsugunohi"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "umamusume": {
+    "inputs": [
+      "umamusume"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "undertale": {
+    "inputs": [
+      "undertale"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "uno": {
+    "inputs": [
+      "uno"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "untitled_goose_game": {
+    "inputs": [
+      "untitled_goose_game"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "valorant": {
+    "inputs": [
+      "valorant"
+    ],
+    "is_game": true,
+    "tags": ["fps", "multiplayer", "competitive", "counterstrike_like", "hero_shooter"]
+  },
+  "void_tRrLM();": {
+    "inputs": [
+      "void_tRrLM();"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "witcher3": {
+    "inputs": [
+      "witcher3"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "yasuhati": {
+    "inputs": [
+      "yasuhati"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "yomawari": {
+    "inputs": [
+      "yomawari"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "yuunama": {
+    "inputs": [
+      "yuunama"
+    ],
+    "is_game": true,
+    "tags": []
+  },
+  "zelda": {
+    "inputs": [
+      "zelda"
+    ],
+    "is_game": true,
+    "tags": []
+  }
+}
